@@ -1,6 +1,6 @@
 # TMC-OBG
 
-This is an attempt to reduce the burden on your Shoulder
+Just a resource aggregator to make things easy
 
 Please feel free to write your Quieries to **Prashanth459g@gmail.com** 
 or 
