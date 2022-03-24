@@ -1,0 +1,76 @@
+/*code together project */
+body{
+  background-color: rgba(25, 0, 0, 0.2);
+  margin:2% 2%;
+  font-size: 150%;
+}
+h1 {
+  color: #FFF;
+}
+header {
+  background-color: #41B5EA;
+  padding: 15px;
+  text-align: center;
+  text-transform: uppercase;
+}
+footer {
+  background-color: #41B5EA;
+  clear: both;
+  float: none;
+}
+header, footer {
+  background:  #41B5EA;
+  background: -moz-linear-gradient(#41B5EA 0%, #9A9A9C 100%);
+  background: -webkit-linear-gradient(#41B5EA 0%,#9A9A9C 100%);
+  background: -o-linear-gradient(#41B5EA 0%,#9A9A9C 100%);
+  background: linear-gradient(#41B5EA 0%,#9A9A9C 100%);
+}
+nav a {
+  display: inline-block;
+  background-color: #FFFFFF;
+  text-align: center;
+  color: #0006CC;
+  width: 10%;
+  padding: 0.9%;
+  margin: 0.02%;
+  text-decoration: underline;
+}
+
+.half {
+  display: inline-block;
+  width: 45%;
+  float: left;
+  margin: 1%;
+}
+#About-me{
+  clear: both;
+}
+
+h2 {
+    color:#CFCFD1;
+    background-color: #41B5EA;
+    padding-left: 30px;
+}
+p {
+  font-family: serif;
+  color: #000;
+}
+ul {
+  color: red;
+  font-variant: small-caps;
+}
+a {
+  color:#B78000;
+}
+details{
+  font-style: italic;
+}
+summary {
+  color: rgb(144,144,0);
+  font-style: normal;
+  font-size: 120%;
+
+}
+img {
+  width: 10%;
+}
