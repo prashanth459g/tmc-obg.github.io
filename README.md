@@ -29,4 +29,8 @@ Let the Tech do the heavy lifting (at least the repeatative clerical work)💪
 - MITU
 - Casualty
 ### LABS
+- Sathees
+- Biochemistry
+- HDS
+- ACR
 ## Phone Numbers - MCH
