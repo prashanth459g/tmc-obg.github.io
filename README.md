@@ -1,6 +1,6 @@
 # TMC-OBG
 
-This is an attempt to reduce the burden of your Shoulder
+This is an attempt to reduce the burden on your Shoulder
 
 Please feel free to write your Quieries to **Prashanth459g@gmail.com** 
 or 
