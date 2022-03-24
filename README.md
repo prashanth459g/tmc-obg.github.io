@@ -12,4 +12,4 @@ Let the Tech do the heavy lifting (at least the repeatative clerical work)💪
 
 
 ## So Let's Go
-Click here --> https://prashanth459g.github.io/TMC-OBG/home.html
+[Click here](https://prashanth459g.github.io/TMC-OBG/home.html)
