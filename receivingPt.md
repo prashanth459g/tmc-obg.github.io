@@ -1,8 +1,3 @@
----
-Aliases: 
----
-
-
 # Receiving a patient
 >  Front page
 > - Height, weight, BMI --> pre pregnancy
@@ -84,6 +79,8 @@ Aliases:
 	- Menstrual history
 	- Past obstetrics history
 	- any reference's from medicine/cardiology/nephrology/ophthalmology
+
+
 ----
 ### Examination
 - General Physical examination
@@ -113,6 +110,8 @@ Aliases:
 	- NST details
 	- Scan details
 	- Investigation details
+
+
 ----------
 ### Impression 
 - Married life x ..yrs || G..P..L..A.. || previous FTNVD/CS
@@ -133,7 +132,6 @@ Aliases:
 - [ ] Tab. Folic Acid 5mg 1-0-0
 - [ ] Tab. Calcium 500mg 0-2-0
 - [ ] Tab. 
-- [ ] 
 - [ ] Arrange Blood
 - [ ] Collect investigation
 - [ ] Prepare parts
