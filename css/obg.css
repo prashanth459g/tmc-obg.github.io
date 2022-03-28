@@ -1,31 +1,52 @@
-header {
-  background-color: #999999;
-  background-image:url(../../images/flywheel.jpg) ;
-  background-size: cover;
-  padding: 50px 10px;
+html {
+  /* background: #466368;
+  background: linear-gradient(#648880, #293f50);
+  border-radius: 6px;
+  height: 120px; */
 }
+header {
+  background-color: #117A65;
+  /* background-image:url(../img/Devasthana.jpg) ; */
+  background-size: cover;
+  /* margin: auto; */
+  padding: 1% 2%;
+  /* border-radius: 1% 2%; */
+  justify-content: center;
+  align-content: center;
+  display: block;
+  /* width: 98%;
+  position: fixed;
+  top: 10px;
+  transition-property: all; */
+}
+
 body{
-  margin: 2%;
+  /* margin: 2%; */
   padding: 1%;
-  background-color: #FFFfff;
+  background: #FFFfff;
+  background: linear-gradient( 45deg, #F8F6C6 , #F5C6F8, #89B6FF);
+  font-family: "Noto Sans Kannada", "Noto Serif Kannada", "Baloo Tamma 2", sans-serif;
 }
 h1 {
   color: #FFFfff;
-  font-size: 1.23em;
+  font-size: 1.56em;
   text-align: center;
   text-transform: uppercase;
 }
 nav {
-  color: #000000;
+  color: #F0FF00;
+
 }
 nav>a {
-  background-color: rgba(255, 255, 255, 0.2);
+  background-color: rgba(164, 240, 249, 0.2);
   display:inline-grid;
+  color: rgba(240, 255, 0 , 1);
   text-align: center;
   font-weight: bold;
-  width: 10%;
-  margin:1% 5%;
-  padding: 1% 2%;
+  font-size: 12px;
+  width: 8%;
+  /* margin:1% 5%; */
+  padding: 0.2% 0.8%;
   border-radius: 8px;
   text-decoration: none;
   /* float: left; */
@@ -33,19 +54,36 @@ nav>a {
 
 }
 nav>a:hover, nav>a:active {
-  background-color: rgba(255, 255, 255, 1)
+  background-color: rgba(255, 255, 255, 1);
+  color: rgba(0, 0, 0, 1);
 }
 .active {
-  background-color: rgba(255, 255, 255, 1)
+  background-color: rgba(255, 255, 255, 1);
+  color: rgba(0, 0, 0, 1);
 
 }
 main a {
-  color: #000000;
-  background-color: #aaaaaa;
+  color: rgb(88,96,238);
+  text-decoration: underline;
+  font-weight: bolder;
+  /* background-color: #aaaaaa; */
 }
 h2 {
-  color: #000000;
+  color: rgba(195, 10, 131, 1);
   text-transform: uppercase;
+  text-align: center;
+  font-weight: bold;
+}
+
+h3 {
+  color: rgba(176, 58, 46, 1);
+  font-weight: bolder;
+  font-style: italic;
+}
+
+h4 {
+  color: rgba(33, 47, 61, 1);
+  font-kerning: auto;
 }
 main {
   /* background-color: #BCB9B7; */
@@ -59,6 +97,9 @@ main {
 }
 .left {
   background-color: #607327;
+  /* background-image: url(../img/teru.jpg); */
+  background: linear-gradient(#FFB5B5 , #FEFFB5);
+  background-size: cover;
   width: 20%;
   height:100vh;
   float: left;
@@ -71,7 +112,8 @@ main {
 .right {
   /* background-color: #BCB9B7; */
   display: inline-block;
-  width: 75%;
+  width: 76%;
+  padding: 2%;
   float: left;
   margin-left: auto;
 }
@@ -88,6 +130,26 @@ img {
   /* height: 10%;
   margin: 3%; */
 
+}
+footer > p > img {
+  width: 10%;
+}
+footer :link {
+  color: #FFFFFF;
+}
+footer :visited{
+  color: #00FFCC;
+}
+footer {
+  width: 94%;
+  color: #FFFFFF;
+  padding: 3%;
+  display: block;
+  clear: both;
+  background: #117A65;
+  /* background-image: url("../img/KMH Logo.png");
+  background-repeat: no-repeat;
+  background: linear-gradient(90deg, #B9FF89, #89B6FF , #F889FF); */
 }
 table{
   display: block;
@@ -147,4 +209,43 @@ td{
 td:hover {
   color: rgba(0, 0, 0, 1);
   background-color:  rgb(228,245,224, 0.9);
+}
+
+.twitter-timeline {
+  display: grid;
+  /* height: 40% !important; */
+  width: 30% !important;
+}
+
+#logo {
+  max-width: 30%;
+  padding-right: 3%;
+  float: right;
+  border-width: 0px;
+}
+#name {
+  font-weight: bold;
+  text-emphasis-color: #000000;
+}
+
+.clinic {
+  padding: 2%;
+  border-radius: 8px;
+  background: #FFFFFF;
+  /* background-color: rgba(255, 135, 0,0.5); */
+  clear: none;
+
+}
+.clm-1-1-1 {
+  width: 30%;
+  display: inline-block;
+
+}
+.clm-1-2 {
+  width: 60%;
+  float: right;
+}
+.profilepic {
+  border-width: 0px;
+  width: 40%;
 }
