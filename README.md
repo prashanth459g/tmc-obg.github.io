@@ -2,8 +2,8 @@
 
 Just a resource aggregator to make things easy
 
-Please feel free to write your Quieries to **Prashanth459g@gmail.com** 
-or 
+Please feel free to write your Quieries to **Prashanth459g@gmail.com**
+or
 i'll be around the campus just talk to me
 
 Let the Tech do the heavy lifting (at least the repeatative clerical work)💪
@@ -12,7 +12,7 @@ Let the Tech do the heavy lifting (at least the repeatative clerical work)💪
 
 
 ## So Let's Go
-[Click here](https://prashanth459g.github.io/TMC-OBG/home.html)
+[Click here](https://prashanth459g.github.io/TMC-OBG/sat-home.html)
 
 
 ## Ward Duty
