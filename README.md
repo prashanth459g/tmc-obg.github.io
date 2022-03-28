@@ -18,19 +18,5 @@ Let the Tech do the heavy lifting (at least the repeatative clerical work)💪
 ## Ward Duty
 - [Check list for Recieving a Patient](https://prashanth459g.github.io/tmc-obg.github.io/receivingPt)
 
-## Phone Numbers - SAT
-### WARD
-### 12hr
-- Labour 1
-- Labour 2
-- SLR
-- EOT
-  - ANesthesia
-- MITU
-- Casualty
-### LABS
-- Sathees
-- Biochemistry
-- HDS
-- ACR
+## [Phone Numbers - SAT](https://prashanth459g.github.io/tmc-obg.github.io/phonenumbers.html)
 ## Phone Numbers - MCH
