@@ -2,9 +2,9 @@
 
 Just a resource aggregator to make things easy
 
-Please feel free to write your Quieries to **Prashanth459g@gmail.com**
+Write your Quieries to **Prashanth459g@gmail.com**
 or
-i'll be around the campus sticking Micropore to various parts of case sheet, so just talk to me
+i'll be around the campus sticking Micropore to various parts of case sheet, so just talk to me.
 
 Let the Tech do the heavy lifting (at least the repeatative clerical work)💪
 
@@ -18,5 +18,4 @@ Let the Tech do the heavy lifting (at least the repeatative clerical work)💪
 ## Ward Duty
 - [Check list for Recieving a Patient](https://prashanth459g.github.io/tmc-obg.github.io/receivingPt)
 
-## [Phone Numbers - SAT](https://prashanth459g.github.io/tmc-obg.github.io/phonenumbers.html)
-## Phone Numbers - MCH
+## [Phone Numbers](https://prashanth459g.github.io/tmc-obg.github.io/phonenumbers.html)
