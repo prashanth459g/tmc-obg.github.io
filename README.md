@@ -22,4 +22,4 @@ Let the Tech do the heavy lifting (at least the repeatative clerical work)💪
 ## [Phone Numbers](https://prashanth459g.github.io/tmc-obg.github.io/phonenumbers.html)
 
 Courtesy -
-  Dr Shree lakshmi
+  Dr Shreelakshmi 
