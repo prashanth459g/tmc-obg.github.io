@@ -12,7 +12,6 @@ Let the Tech do the heavy lifting (at least the repeatative clerical work)💪
 
 
 
-
 ## So Let's Go
 [Click here](https://prashanth459g.github.io/tmc-obg.github.io/sat-home.html)
 
@@ -21,3 +20,6 @@ Let the Tech do the heavy lifting (at least the repeatative clerical work)💪
 - [Check list for Recieving a Patient](https://prashanth459g.github.io/tmc-obg.github.io/receivingPt)
 
 ## [Phone Numbers](https://prashanth459g.github.io/tmc-obg.github.io/phonenumbers.html)
+
+Courtesy -
+  Dr Shree lakshmi
