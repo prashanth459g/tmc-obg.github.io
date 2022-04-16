@@ -110,6 +110,13 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+aside.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  left: 0;
+
+}
 .right {
   /* background-color: #BCB9B7; */
   display: inline-block;
