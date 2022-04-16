@@ -24,8 +24,8 @@ body{
   /* margin: 2%; */
   padding: 1%;
   background: #FFFfff;
-  background: linear-gradient( 45deg, #F8F6C6 , #F5C6F8, #89B6FF);
-  font-family: "Noto Sans Kannada", "Noto Serif Kannada", "Baloo Tamma 2", sans-serif;
+  /* background: linear-gradient( 45deg, #F8F6C6 , #F5C6F8, #89B6FF); */
+  font-family: sans-serif;
 }
 h1 {
   color: #FFFfff;
@@ -64,8 +64,9 @@ nav>a:hover, nav>a:active {
 }
 main a {
   color: rgb(88,96,238);
-  text-decoration: underline;
+  text-decoration: none;
   font-weight: bolder;
+  text-rendering:optimizeSpeed;
   /* background-color: #aaaaaa; */
 }
 h2 {
