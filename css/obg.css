@@ -28,6 +28,12 @@ body{
   font-family: sans-serif;
 }
 h1 {
+  color: #E800FF;
+  font-size: 1.56em;
+  text-align: center;
+  text-transform: uppercase;
+}
+header>h1 {
   color: #FFFfff;
   font-size: 1.56em;
   text-align: center;
