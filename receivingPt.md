@@ -183,7 +183,7 @@
 - [ ] Tab. Folic Acid 5mg 1-0-0
 - [ ] Tab. Calcium 500mg 0-2-0
 - [ ] Tab. Albendazole 400mg stat (if not dewormed)
-- [ ]
+
 - [ ] Arrange Blood
 - [ ] Collect investigation
 - [ ] Prepare parts
