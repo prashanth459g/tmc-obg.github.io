@@ -6,6 +6,8 @@
 
 - Date & time of receiving
 - Demographic details -->
+
+----
 ### History
 - Chief Complaints -->
 	- Admitted for safe confinement
@@ -122,6 +124,8 @@
 	- Menstrual history
 	- Past obstetrics history
 	- any reference's from medicine/cardiology/nephrology/ophthalmology
+
+
 ----
 ### Examination
 - General Physical examination
