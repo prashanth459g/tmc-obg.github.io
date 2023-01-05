@@ -16,3 +16,21 @@ function newcase() {
   cases[cases.length] = "<br>" + case1 ;
   document.getElementById("cases").innerHTML = cases;
 }
+
+// this is the PGE1 alaram clock for every 2hours
+// function callEveryHour() {
+//     setInterval(yourFunction, 1000 * 60 * 60);
+// }
+// 
+//
+// var nextDate = new Date();
+// if (nextDate.getMinutes() === 0) { // You can check for seconds here too
+//     callEveryHour()
+// } else {
+//     nextDate.setHours(nextDate.getHours() + 1);
+//     nextDate.setMinutes(0);
+//     nextDate.setSeconds(0);// I wouldn't do milliseconds too ;)
+//
+//     var difference = nextDate - new Date();
+//     setTimeout(callEveryHour, difference);
+// }
