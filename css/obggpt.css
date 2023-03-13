@@ -1,0 +1,157 @@
+html {
+  /* background: #466368;
+  background: linear-gradient(#648880, #293f50);
+  border-radius: 6px;
+  height: 120px; */
+}
+
+header {
+  background-color: #0F4C81;
+  /* background-image:url(../img/Devasthana.jpg) ; */
+  background-size: cover;
+  padding: 1% 2%;
+  display: block;
+  justify-content: space-between;
+  align-items: center;
+}
+
+body {
+  padding: 1%;
+  background-color: #F1F1F1;
+  font-family: sans-serif;
+}
+
+h1 {
+  color: #E800FF;
+  font-size: 1.56em;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+header > h1 {
+  display: block;
+  margin-bottom: 10px;
+  color: #FFFFFF;
+  font-size: 1.56em;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+nav {
+  color: #FFFFFF;
+  margin-top: 10px;
+  text-align: center;; /* adjust to left or center depending on your preference */
+}
+
+nav > a {
+  background-color: #0F4C81;
+  color: #FFFFFF;
+  text-align: center;
+  font-weight: bold;
+  font-size: 14px;
+  width: 8%;
+  padding: 0.2% 0.8%;
+  border-radius: 8px;
+  text-decoration: none;
+}
+
+nav > a:hover,
+nav > a:active {
+  background-color: #FFFFFF;
+  color: #0F4C81;
+}
+
+.active {
+  background-color: #FFFFFF;
+  color: #0F4C81;
+}
+
+main a {
+  color: #0F4C81;
+  text-decoration: none;
+  font-weight: bolder;
+  text-rendering: optimizeSpeed;
+}
+
+h2 {
+  color: #E800FF;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: bold;
+}
+
+h3 {
+  color: #FF5733;
+  font-weight: bolder;
+  font-style: italic;
+}
+
+h4 {
+  color: #000000;
+  font-kerning: auto;
+}
+
+main {
+  display: block;
+}
+
+.left {
+  background-color: #607327;
+  /* background-image: url(../img/teru.jpg); */
+  background: linear-gradient(#FFB5B5 , #FEFFB5);
+  background-size: cover;
+  width: 20%;
+  height:100vh;
+  float: left;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+aside.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  left: 0;
+}
+
+.right {
+  display: inline-block;
+  width: 76%;
+  padding: 2%;
+  float: left;
+  margin-left: auto;
+}
+
+img {
+  display: block;
+  border-color: #000000;
+  border-style: solid;
+  border-width: 2px;
+  width: 80%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 8px;
+}
+
+footer > p > img {
+  width: 10%;
+}
+
+footer :link {
+  color: #FFFFFF;
+}
+
+footer :visited {
+  color: #00FFCC;
+}
+
+footer {
+  width: 94%;
+  color: #FFFFFF;
+  padding: 3%;
+  display: block;
+  clear: both;
+  background-color:#0F4C81;
+}
