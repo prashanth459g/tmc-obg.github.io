@@ -13,6 +13,7 @@ header {
   display: block;
   justify-content: space-between;
   align-items: center;
+  position: relative;
 }
 
 body {
@@ -40,15 +41,27 @@ header > h1 {
 nav {
   color: #FFFFFF;
   margin-top: 10px;
-  text-align: center;; /* adjust to left or center depending on your preference */
+  text-align: center; /* adjust to left or center depending on your preference */
+  position: sticky;
+  top: 0;
+}
+nav ul {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
 
+nav li {
+  margin: 0 10px;
+}
 nav > a {
   background-color: #0F4C81;
   color: #FFFFFF;
   text-align: center;
   font-weight: bold;
   font-size: 14px;
+  padding: 10px;
   width: 8%;
   padding: 0.2% 0.8%;
   border-radius: 8px;
@@ -106,6 +119,14 @@ main {
   display: inline-block;
   margin-left: auto;
   margin-right: auto;
+}
+@media (max-width: 768px) {
+  .left {
+    display: none;
+  }
+  .right {
+    width: 100%;
+  }
 }
 
 aside.sticky {
