@@ -107,7 +107,11 @@ h4 {
 main {
   display: block;
 }
-
+@media only screen and (max-width: 480px) {
+  .left {
+    display: none;
+  }
+}
 .left {
   background-color: #607327;
   /* background-image: url(../img/teru.jpg); */
@@ -120,14 +124,7 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
-@media (max-width: 768px) {
-  .left {
-    display: none;
-  }
-  .right {
-    width: 100%;
-  }
-}
+
 
 aside.sticky {
   position: -webkit-sticky;
