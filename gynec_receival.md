@@ -1,11 +1,14 @@
 # Receiving a Gynecology patient
+
 >  Front page
 > - Height, weight, BMI 
 > - PAP smear status
+
 - Date & time of receiving
 - Demographic details --> name, age, From ___ town, studies upto, working as
 	- married to Mr. ___ ± age, occupation
 	- belongs to kuppuswamy classification of SES
+
 ### History - always in patient words, no medical jargon
 - Chief Complaints --> in chronological order in just single sentences 
 	- 
@@ -79,6 +82,7 @@
 	- normal bladder & bowel movement
 	- no addiction
 - SES - income
+
 ----
 ### Examination
 - General Physical examination

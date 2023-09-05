@@ -88,9 +88,6 @@
 		- if <20 wk --> c/c HTN
 		- Check urine P/C >0.3 or Urine Albumin + ==> Preeclampsia
 		- c/c HTn --> End Organ evaluation
-	%%	- check *Doppler scan* -->
-			- Uterine artery PI
-			- Whether started on Tab. Ecosprine 150mg HS ?%%
 	- **Seizure**
 		- When was detected
 		- last seizure episode
@@ -167,7 +164,10 @@
 	- NST details
 	- Scan details
 	- Investigation details
+
+
 ----------
+
 ### Impression
 - Married life x ..yrs || G..P..L..A.. || previous FTNVD/CS
 - POG - ....wk + ...days
@@ -176,6 +176,7 @@
 	- Placenta previa
 	- anemia
 - Enter Investigation/scan impression
+
 -----
 ### Advice
 - [ ] Monitor Vitals
@@ -187,7 +188,6 @@
 - [ ] Tab. Folic Acid 5mg 1-0-0
 - [ ] Tab. Calcium 500mg 0-2-0
 - [ ] Tab. Albendazole 400mg stat (if not dewormed)
-
 - [ ] Arrange Blood
 - [ ] Collect investigation
 - [ ] Prepare parts
