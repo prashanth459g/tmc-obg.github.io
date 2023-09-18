@@ -1,0 +1,418 @@
+---
+Aliases: 
+---
+### Index
+- Previous chapter --> [[Epidemiological considerations in Designing a research study]]
+- Sources -
+	- [[10. Measurement of study variables.pdf]]
+	- [Statistics at Square One](https://www.bmj.com/about-bmj/resources-readers/publications/statistics-square-one)
+	- [[11. Sampling methods.pdf]]
+	- [Design, data analysis and sampling techniques for clinical research](https://www.ncbi.nlm.nih.gov./pmc/articles/PMC3271469/)
+	- [[12. Calculting sample size and power.pdf]]
+	- [Sample size calculations: basic principles and common pitfalls](https://pubmed.ncbi.nlm.nih.gov/20067907/)
+	- 
+- **Free Soft wares for Sample Size**
+	- OpenEpi
+		- Supported by Centers for Disease Control and
+		- Prevention, Atlanta
+		- www.openepi.com
+	- PS: Power and Sample Size Calculation
+		- by Department of Bio statistics
+		- Vanderbilt University
+		- http://biostat.mc.vanderbilt.edu/wiki/Main/PowerSampleSize
+- 
+# Bio-statistical considerations in designing a research study
+### Measurement of study variables
+- Types of Data
+    - *Qualitative*
+	    - **Nominal**
+		    - Eg. Color of Eyes
+	    - **Ordinal**
+		    - Eg. Stages of disease condition
+    - *Quantitative*
+	    - **Discrete**
+		    - Eg. Family size
+	    - **Continuous**
+		    - Eg. Height / Weight
+#### *Central Value*
+ - Data is not information.
+ - Average
+	 - Mean
+	 - Median
+	 - Mode
+- Arithmetic **Mean** (AM)
+    - Most commonly used; Simply called MEAN
+    - Add all the observed values (Sum = ΣXi)
+    - **Mean = Sum / n**
+    - Sample Mean is denoted by 
+    - Population Mean is denoted by μ
+	- Example
+	    - Age of 10 Pregnant women
+		- 26, 31, 25, 21, 26, 26, 27, 25, 27, and 26
+		- Sum = (26+31+25+21+26+26+27+25+27+26) = 260
+		- n = 10
+		- Mean = sum / n = 260/10 = 26 years
+- **Median**
+	- The Median describes literally the middle value of the distribution
+	- Divides the distribution exactly into two halves
+	- (i.e. 50% of the data will fall on either side)
+	- Useful when there are extreme values
+	- Example
+		- Duration (days) of hospital stay of 11 patients
+		- 1, 2, 3, 4, 5, 6, 7, 8, 8, 9, 77 (Arranged in ascending order)
+		- Median is the middle value (6th value) = 6
+		- (Mean = 11.8)
+		- If n is even; then take average of middle two values.
+- **Mode**
+	- The Mode is the value that occurs most frequently
+	- Mode is the only location statistics to be used for nominal data - not measurable characteristic
+	- Epidemiology - Describing an epidemic with respect to TIME
+	- Example
+	    - Colour preference of people for their car
+			- Colour preference - No. of persons
+			- Green - 354
+			- Yellow - 852
+			- White - 310
+			- Red - 474
+			Mode = Yellow
+#### *Dispersion*
+- Is it enough to know the average?
+	- Example of swimming pool.
+- Measures of variability
+	- Range
+	- Inter-quartile range
+	- Mean deviation from mean
+	- Variance / Standard deviation
+- **RANGE**
+	- Definition:
+		- The difference between the Minimum and the
+		- Maximum value of the observations
+	- Advantage:
+		- A quick and easy indicator of dispersion.
+	- Disadvantage:
+		- Influenced by extreme values; Uses only two data points
+- **INTER-QUARTILE RANGE** --> Quartile Deviation
+	- Disadvantage:
+		- Covers only the middle 50% observations
+		- Quartile Deviation Definition: Defined as the interval between the value of the upper quartile (Q3) and the lower quartile (Q1) Inter Quartile Range = Q3 � Q1
+	- Advantage:
+		- Unaffected by the extreme values
+	- Disadvantage:
+		- Covers only the middle 50% observations
+	- ![[Pasted image 20220223100605.png]]
+- **MEAN DEVIATION**
+	- Definition: The mean deviation is the average of the absolute (ignoring the sign) deviations of the observations from the arithmetic mean.
+	- Advantage: It is based on all the observations in the group. It is easy to grasp the meaning of the procedure.
+	- Disadvantage: It ignores the sign of the difference of the value of the observation and arithmetic mean.
+	- It is not widely used because of the availability of a more advantageous measure.
+- **STANDARD DEVIATION** - SD
+	- Definition: The SD is the square root of the average of the squared deviations of the observations from the arithmetic mean
+	- The square of the SD is called variance
+	- Advantage: The SD is the most important measure of distribution. While the variance is in unit squared, the SD is expressed in the same units of measurement as the observation. It is suitable for further analysis
+	- The SD together with arithmetic mean is useful for description of the data
+- **Coefficient of Variation** (CV)
+	- Purpose: To compare the relative variability in different groups
+	- Definition: The coefficient of variation is the SD expressed as a percentage of the arithmetic mean (AM).
+	- ![[Pasted image 20220223101216.png]]
+#### Summary
+- Choose appropriate central / dispersion value
+	- Mean / SD – if no extreme values
+	- Median / IQR – if there are extreme values
+	- Mode /Range – for qualitative variables/ time distribution in epidemic curve
+-  Mean and SD are used the most
+- (Video Transcript)
+	- We often hear statements like I have data on 100,000 Leprosy patients, I have data onclimatic change in Chennai city, I have data on road traffic accidents and so on.In all these statements, there is a word “data”.In this session, we are going to rather see what this data means, what are the differenttypes of data?And how to convert these data into pieces of information?Data can broadly be classified into Qualitative and Quantitative data.Qualitative data as the name suggests, we cannot quantify them, it is on some sort ofa quality.Again, this qualitative data could be a Nominal data or an Ordinary data.The nominal data, the examples are the color of eyes, the different regions of a city andso on and the ordinary data are the data which can be arranged in a sort of an order likeexamples you know stages of disease condition.Quantitative data again are of two categories, one is a discrete data which essentially isa full number, a number of siblings, family size, etcetera and the other one is a continuousdata, where is a continuous measurement like height and weight.So, these are all different types of data which requires different type of analyticalskill.Now, our aim is to get some information out of data.Alarge set of data, it is very essential but still looking at just the data, you can’trather get any information.So, we need to summarize them.One of the ways of summarizing the data is to get a value of, a sort of an average.Now, average you mean, the first average that comes to our mind is the Mean.A mean which is also called an Arithmetic Mean, this is a most commonly used and simplyit is called Mean.You add all the observed values, we call that as sum which is sigma Xi in a mathematicalnotation and mean is nothing but divide this sum by the number of observations you haveused in your calculations, which is n.The sample mean is denoted by an ?bar, line on top of x and population mean is denotedby mu.Let us rather see an example.Suppose, there are 10 pregnant patients who had visited an ANC clinic and their ages are26, 31, 25 and so on and what is a mean age of these pregnant woman?The mean is got by summing up all the ages which comes to 260.There are 10 observations, so divided it by 10.It is 260 by 10 which is equal to 26.We say the mean age of pregnant woman who visited the ANC clinic is 26 years.Now, one of the problem with this average mean is, some extreme values either big orsmall even one or two, if they are present in your data set, that could influence ontheir average because you are adding all and one big value, if we add the whole mean becomesan over estimation.In order to control this or in order to avoid this, we have another measure which is calledMedian.The median is, literally the middle value of the distribution.It divides the distribution exactly into two halves that is 50 percent of the data willfall on either side.This is a very useful measure, especially when you have extreme values.Let us just see this example.Suppose, you have a data on the duration of stay in hospital of 11 patients, the durationis 1 day, 2 days, 3 days, and 9 days for 10 patients and then the 11th patient, it is77 days.Of course, I have arranged this data in an ascending order.The median is the middle value, which is a 6th value, the value you get n plus 1 dividedby 2, 11 plus 1, 12 divided by 2 is 6.So, the 6th value is the value 6, which means the median is 6 here.Whereas, when we really compute the mean for this it comes out to be 11.8.As you could rather see 6 is more appropriate measure of average in this case rather thanthe mean 11.8.If n is even , then you take the average of middle 2 values.Now, there is another measure which is called Mode.Mode is the value that occurs most frequently.In fact, mode is the only location statistics which we can use for nominal data, which arenot measurable.In epidemiology, we do use more quite often.In an epidemic curve with respective time, we look for the modal class and then thatgives an idea of the incubation period of the pathogen.The example for a mode is the color preference and the number of persons, 354 people theyprefer green, 852 prefer yellow, 310 prefer white and 474 prefer red.So maximum number of people they prefer yellow, answer the mode of class is yellow.As you could rather see as in the respect of rather mode, there can be multiple modes,there cannot be a mode at all in a sequeal . Suppose, if all the values are 354 here,then there is no mode.So, mode can exist, there can be multiple modes in a data set.Now, we have seen Mean, Median, Mode are 3 good measures of summarizing your data toget an average value.So it is not enough you just rather know the average value.Say for example, you go to a swimming pool and you do not know swimming and you are 5feet 7 of inches and then, if the pool managers says the average depth of the swimming poolis 4 and a half feet you feel very comfortable and you jump, and suppose a place where youjump is 9 feet then you know the thing that you missed to ask is, yes the average is 4and a half feet, but what is the variability?There maybe you know place where it is as shallow as 3 feet and as depth as 9 or 10feet.So, you need to rather ask, what is the variability?One of the measures that comes to our mind is the Range.The range is the difference between the minimum and then the maximum value of the observations.An advantage of this measure is it is very quick and easy indicator of dispersion.But, as I had said about the mean, the range also is influenced by extreme values and alsowe consider only two values, the first and then the last and in between we are not usingthe data at all and that is the great disadvantage of range.There is another value which is called Inter-quartile range.This to a large extend take care of this extreme values in the sense, we divide the data setsinto 4 quarters.And we try to remove the first quarter and then the last quarter and consider only themiddle 50 percent of values and this inter-quartile range is the Q3 minus Q1 and a great advantageof this is, this value does not rather get affected by extreme values.But again the disadvantages is, it covers only the middle 50 percent of the value andthen the same disadvantage that we had for range that uses only two values and in betweenvalues are not made use of and that is a great disadvantage of this value.Another measure of variability is Mean deviation from mean.What you mean by that?Say for example, from your data set, every data point we try to subtract a mean and thenwe try to take average of these mean deviation, which is called Mean deviation from mean.One of the problems with this is, if you rather do with that what happen is there are somevalues which are less than the mean, some values which are more than the mean and ifyou do the summation of all these, you get a value 0.So, mean deviation from mean is always 0.In order to get over that, what we do it is, we ignore the sign and then we just take thedifference and then we take the average.This is called Absolute mean deviation, an advantage it is based on all observationsin the group it is easy to grasp the meaning of the whole procedure.But the disadvantage is, it ignores the signs of the difference of the value and it is mathematicallyit is not very rigorous to use this value.So, in order to get over that we have another measure, what we do is?We do take the difference of each observations from mean and instead of ignoring the sign,we square them because square takes care of even the negative and then the positive everythingbecomes positive and then we take an average of that, that value is called Variance.And since variance is, we are squaring and then the measurement also squares we takea square route at the end and that is called Standard Deviation.The standard deviation, which is denoted as SD is a square route of the average of thesquared deviations of the observations from the arithmetic mean.The square of the standard deviation is the variance.Advantage of standard deviation is most important measure of distribution, while the varianceis in unit square, the standard deviation is expressed in the same units of the measurementand it is suitable for further analysis.So, standard deviation together with arithmetic mean is useful for describing the data andthese two measures are extensively used for further treatment of your data set.I am going to introduce to you one more measure which is called Coefficient of Variation.The purpose of this measure, suppose if you have a different groups, different data setsto compare and then you want to rather compare the relative variability in different groups.So, the coefficient of the variation is the standard deviation expressed as a percentageof arithmetic mean because the standard deviation by arithmetic mean, what happens is, theyboth are the same units of the measurements, so units of measurement get canceled, so whatyou get is a pure number and that number expressed in terms of percentage that is multipliedby 100, you get coefficient of variation.In summary, we have to choose an appropriate central or dispersion values.The Mean and Standard Deviation are the most appropriate central and dispersion valuesespecially, if there are no extreme values.If there are extreme values, there are methods of still using mean and standard deviationusing some transformations of your data that requires expert handling of your data.Otherwise, you go in for median and inter-quartile range and these two measures median, inter-quartilerange do take care of extreme values.The mode and range is normally used for qualitative variables, time distributions in epidemiccurve.The mean and standard deviation, as I said are the most used measures of variabilityand the summary statistics.
+### Sampling methods
+- Definition of sampling
+	- Procedure by which some members of the population are selected as representatives of the entire population
+- **Study population**
+	- The study population is the population to which the results of the study will be inferred
+	- The study population depends upon the research question
+	    - How many injections do people received each year in India?
+		    - Study population: Population of India
+	    - How many needle-sticks health care workers experience each year in India?
+		    - Study population: Health care workers of India
+	    - How many hospitals have a needle-sticks prevention policy in India
+		    - Study population: Hospitals of India
+- The sample needs to be representative of the population in terms of time
+    - Seasonality
+    - Day of the week
+    - Time of the day
+    - Urban
+    - Rural
+    - Age
+    - Sex
+    - Other demographic characteristics
+- Definition of sampling terms
+    - Sampling *unit* (Basic sampling unit, BSU)
+	    - Elementary unit that will be sampled
+		    - People
+		    - Health care workers
+		    - Hospitals
+    - Sampling *frame*
+	    - List of all sampling units in the population
+    - Sampling *scheme*
+	    - Method used to select sampling units from the sampling frame
+- Why do we sample populations?
+    - Obtain information from large populations
+    - Ensure the efficiency of a study
+    - Obtain more accurate information
+- Practical example
+    -  The Ministry of Health of a country X wants to estimate the proportion of children in elementary schools who have been immunized against childhood infectious diseases
+    -  The task must be completed in one month
+    -  The objective is to estimate the proportion of immunized children
+- *Type* of samples
+    1. **Non-probability samples**
+	    - Probability of being selected is unknown
+	    - Convenience samples
+		    - Biased
+		    - Best or worst scenario
+	    - Subjective samples
+		    - Based on knowledge
+		    - Time/resources constraints
+    2. **Probability samples**
+	    - Every unit in the population has a known probability of being selected
+	    - Only sampling method that allows to draw valid conclusions about population
+- Random sampling in probability samples
+    - Removes the possibility of bias in selection of subjects
+    - Ensures that each subject has a known probability of being chosen
+    - Allows application of statistical theory
+- **Sampling error**
+    - No sample is a perfect mirror image of the population
+    - Magnitude of error can be measured in probability samples
+    - Expressed by standard error of mean, proportion, differences
+    - Function of:
+	    - Sample size
+	    - Variability in measurement
+- ==Methods used in probability samples==
+	 1. Simple random sampling
+	 2. Systematic sampling
+	 3. Stratified sampling
+	 4. Cluster sampling
+	 5. Multistage sampling
+1. *Simple random* sampling
+    - Principle
+	    - Equal chance for each sampling unit
+    - Procedure
+	    - Number all units
+	    - Randomly draw units
+    - Advantages
+	    - Simple
+	    - Sampling error easily measured
+    - Disadvantages
+	    - Need complete list of units
+	    - Does not always achieve best representation
+	- Example of simple random sampling
+		- ![[Pasted image 20220223103123.png]]
+2. *Systematic* sampling
+    - Principle
+	    - A unit drawn every k units
+	    - Equal chance of being drawn for each unit
+    - Procedure
+	    - Calculate sampling interval (k = N/n)
+	    - Draw a random number ( k) for starting
+	    - Draw every k units from first unit
+    - Advantages
+	    - Ensures representativity across list
+	    - Easy to implement
+    - Disadvantage
+	    - Dangerous if list has cycles
+	- Example of systematic sampling
+		- ![[Pasted image 20220223103352.png]]
+3. *Stratified* sampling
+    - Principle
+	    - Classify population into homogeneous subgroups (strata)
+	    - Draw sample in each strata
+	    - Combine results of all strata
+    - Advantage
+	    - More precise if variable associated with strata
+	    - All subgroups represented, allowing separate conclusions about each of them
+    - Disadvantages
+	    - Sampling error difficult to measure
+	    - Loss of precision if small numbers sampled in individual strata
+	- Example of stratified sampling
+	    - Estimate vaccination coverage in a country
+	    - One sample drawn in each region
+	    - Estimates calculated for each stratum
+	    - Each strata weighted to obtain estimate for country
+4. *Cluster* sampling
+    - Principle
+	    - Random sample of groups ("clusters") of units
+	    - All or proportion of units included selected clusters
+    - Advantages
+	    - Simple: No list of units required
+	    - Less travel/resources required
+    - Disadvantages
+	    - Imprecise if clusters homogeneous (Large design effect)
+	    - Sampling error difficult to measure
+	- Cluster sampling
+	    - The sampling unit is not a subject, but a group (cluster) of subjects.
+	    - It is assumed that:
+		    - The variability among clusters is minimal
+		    - The variability within each cluster is what is observed in the general population
+	- The two stages of a cluster sample
+	 1. First stage: Probability proportional to size
+	    - Select the number of clusters to be included
+	    - Compute a cumulative list of the populations in each unit with a grand total
+	    - Divide the grand total by the number of clusters and obtain the sampling interval
+	    - Choose a random number and identify the first cluster
+	    - Add the sampling interval and identify the second cluster
+	    - By repeating the same procedure, identify all the clusters
+	 2. Second stage
+	    - In each cluster select a random sample using a sampling frame of subjects (e.g. residents) or households
+5. *Multistage* sampling
+    - Principle
+	    - Several chained samples
+	    - Several statistical units
+    - Advantages
+	    - No complete listing of population required
+	    - Most feasible approach for large populations
+    - Disadvantages
+	    - Several sampling lists
+	    - Sampling error difficult to measure
+- Key issues
+    - We cannot study the whole population so we sample it
+    - Taking a sample leads to sampling error, which is measurable
+    - Good design and quality assurance ensure validity and while appropriate sample size will ensure precision
+    - Probability samples are the only one that allow use of statistics as we know them
+
+- (Video Transcript)
+	- Today, we are going to talk about some aspects of Sampling Methods.Sampling is really required, whenever you are dealing with a very large population andyou want some quick information.Now, look at the definition of sampling.The sampling is a procedure by which some members of the population are selected andthey are supposed to be the representative of the entire population.See, if you have a population of people like this and you are looking at a portion of themand that is called a Sample.I would like to introduce you to some concepts and one of them is the Study population.What you mean by Study population?The study population is the population to which the results of the study are to be inferred.Say for example, how many injections do people receive each year in India?The study population in this case is the entire population of India.Suppose, your research question is, how many needle-sticks health care workers experienceeach year in India?Then the study population becomes health care workers of India.Suppose, if your study question is how many hospitals have a needle sticks preventionpolicy in India?Then your study population in this case becomes hospitals of India.The sample which we select should be representative of the population for which we require ananswer and this representation should be in accordance with , seasonality, the day ofthe week, the time of the week.Whether it is urban or it is rural, or it is should rather match the composition ofage, sex and other demographic characteristics of the population.See now: let us introduce you to some concepts or terminologies that are often used in thesampling parlance.What do you mean by Sampling Unit?Sometimes it is called basic sampling unit, BSU.These are the elementary unit that will be sampled, that could be people or health careworkers or hospitals as we had seen in our early example.What do you mean by Sampling Frame?The sampling frame is a list of all sampling units in the population and what do you meanby Sampling Scheme?The sampling scheme is a method used to select sampling units from the sampling frame.So now, there are different ways how or why we should do the sample populations?If you have enough resources, you can probably study the entire population.But still, even if you have the resources, it is not wise to study the entire populationbecause often the population is very large and a large population when you are goingto collect information one of the major constraint could be the time.You may require lot of time to collect information and you may say I will employ lot of peopleto do that, but what would rather probably happen is if you have lots of people collectinginformation there could be lot of inter observer variations which could rather add on to atremendous amount of error and unfortunately you cannot measure the amount of such errors.So, it often rather happens that by doing a sample survey you often get accurate information.The information that you get from sample surveys are more accurate than the information youdo on a large scale population studies.So, a population could be an entire universe, whereas a sample could be as selected a smallregions.Let us look at a practical example.Suppose, the ministry of health of a country X wants to estimate the proportion of childrenin elementary schools, who have been immunized against childhood infectious diseases.You could just imagine, you know the proportion of children of all elementary schools, whohave been immunized against childhood infections of a country.So that is a task but one of the conditions that he has put is the task must be completedin one month.So, the objective is to estimate the proportion of immunized children and you want the resultsin a month’s time.Now, let us rather look at the different ways; how you can rather get this information?Or in other words what are the different types of samples that could rather group.See, broadly speaking the sample could be a Non-probability Sample or a ProbabilitySample.What do you mean by a Non-probability Sample?Non-probability sample is the probability of being selected that is a sample, the probabilityof being selected for your study is not known.It could be a convenient sample or purposing sample, you just rather convenient whateverthe region that is convenient to you, close by to your place, you can rather go and rathersee first 100 people that you come across that could be a convenient sample.What could rather happen?That sample could be biased or it can rather give either a best or a worst scenario, peopleyou know it is a convenient location.You may get rather the results very different from a location, which is not very convenientor which is very remote and difficult to approach.And also, some of these are all very subjective samples and to derive some objective criteriafrom a subjective sample is always difficult.But, nevertheless these non-probability sampling methods still are useful and that is beingextensively used mainly to generate hypothesis or to prepare for more systematic probabilitysamples.Now let us look at, what do you mean by Probability Samples?In a probability sample, every unit in the population has a known probability of beingselected.What is the advantage?This is only sampling method that allows to draw valid conclusions about the population.It removes the possibility of bias in selection of subjects and also ensures that each subjecthas a known probability of being chosen.It allows application of statistical theory because many of the statistical text thatyou do it insist on a random sampling and these tests are valid only if the samplesare a random sample.I would like to rather introduce you to the concept call Sampling Error.No sample is a perfect mirror image of the population.Always you know when you pick a sample from a population and when you look at the results,it may not be exactly the same as the results in the population.But, fortunately the magnitude of error could be measured in terms of probability in thecase of probability samples.This is expressed by standard error of mean or proportion or differences and that is afunction of the sample size and then the variability in the measurement.So, sampling error is a very important component in sampling theory, which helps us in identifyingthe sample size and things so on.Now, let us look at some of the popular sampling methodologies that are employed in sampleservice.Let us rather look at the first Simple random sampling.As a name suggests, it is a very simple sampling procedure, very easy to understand in whichevery individual sampling units have got an equal chance of being included into a sample.How do you do that?We number all the units and we randomly draw units.The advantages as I mentioned, it is very simple and sampling error is also very easilymeasured.Major limitation of this is, you need to have a compete list of all units.Many times it may not be available and also some times you may get a sample, which isvery different from the whole population may not be very representative of the population.See, an example of a simple random sampling could be if you have the list of all say aboutthese 48 names, you pick a random numbers of 9, 18, 32, and 40.So these are all the names that are selected as your sample.Now, the next sampling type is a Systematic Sampling.A systematic sampling.what is rather done is, initial sampling unit is picked by random and then every kth unitfrom that from your population are examined.A unit is drawn and every k units and every equal chance of being select for each of theunit.So, you calculate the sampling interval called k, which is divided by N divided by the numberof sample size that you require.And you draw a random number which is less than or equal to k for starting and draw everyk units from the first unit.What are the advantages?It ensures representatively across the list.It is easy to implement.You gave a worker that you say, you start from this house and every 10th house you goon rather see and cover all the houses, its very easily been done.If there is some sort of a cycle of some specific characteristic that you are studying thenyou might probably get a sample, which is very atypical in a systematic sampling andalso some of the statistical measures that you are going to compute, it is difficultwhen you are going to have systematic sampling, where you do not have an exact formulas, youmay have to use some approximate formulas.The example of a systematic sampling is you see, in the first, the red house is selectedand then every eighth house from that is selected and all the red houses in these houses areyour selected samples.There is a sampling method called Stratified Sampling.The principle of it is, who classify population into homogeneous subgroups, which are called'strata' and you draw sample from in each strata combine the results of all the stratato get an idea of the whole population.The advantage of it is its more precise, if variable associated with strata and all subgroupsare represented, allowing for separate conclusions about each one of them.Suppose, a natural strata could be male and female, so you have an estimate for male andyou have an estimate for female and you can have an estimate for a combine male and femalefor the whole population.But the disadvantage is, sampling error is difficult to measure, and that could be lossof precision, if you are going to rather have a lot of strata and for each strata you havesmall numbers in it.Example of a stratified sampling is, suppose if you want to estimate the vaccination coveragein your country.One sample drawn from each region north, east, south and west and the estimate calculatedfor each of the stratum and at the end you can weight the stratum according to the sizeof the regions.Another important type of sampling, which is very popularly used in the health surveysin research, is called Cluster Sampling.The principle of cluster sampling is that, a random sample of groups or a cluster ofunits, and all proportion of units are included in these selected clusters.Its advantages is, it is simple, we do not require a list of units and less of travelor resources are required because you are going to collect a cluster and you are goingsee only within the clusters.And the disadvantage is, if the clusters of homogeneous then it may result in a largedesign effect.All the people in the sample may have very homogeneous results which could result ina design effect and sampling error is difficult to measure in a cluster sampling.The sampling unit is not a subject, but a group or a cluster of subject.The assumptions here it is, that variability among the cluster is minimal.The variability within each cluster is what is observed in the general population.Now, how these clusters sampling is usually done.It is done as two stage approach.In the first stage, a probability proportional to size, that is select the number of clustersto be included, compute a cumulative list of all the population in each unit with agrand total, divide the grand total by the number of clusters and obtain the samplinginterval, choose a random number and identify the first cluster, add the sampling intervaland identify the second cluster and so on and by repeating the same procedure, identifyall the clusters.Once your clusters are identified, then in the second stage in each cluster, you selectthis random sample using the sampling frame because as I had mentioned you earlier onsimple random sampling when you want to do a simple random sampling you need to haveall the list of the your sampling frame.So, in a small cluster it is possible for you to formulate the sampling frame and youcan select people from that sampling frame on a random basis.Another important sampling methodology employed is called a Multistage Sampling.In this multistage, especially in a very large, you want some estimates for at the nationallevel, you need to do a sampling in several chains samples and several statistical unitsare there.The advantage is, there is no complete listing of the population is required and it is mostfeasible approach for large populations.The disadvantage is, there are several sampling units and sampling error at times, it is verydifficult to unless you follow certain very specific methodologies for selecting at eachstage.Some of the key issues that I would like to bring to you is we cannot study the wholepopulation so we sample it.Whole population studying could impact a result in inaccurate results so taking sample leadsto sampling error, but which is easily measurable and we do not have a measure for non-samplingerror, whereas we have a measure for sampling error.Good design and quality assurance ensure validity and while appropriate sample size will ensureprecision.The probability samples are the only one that allows the use of statistics as we know themand so it is always advantage to use a probability sample so that you can have a valid conclusion,a precise conclusion and also you can employ statistical test on them
+### Calculating sample size and power
+- Objectives
+    - Understand the relationship between sample size and power
+    - Determine sample size necessary to achieve a given level of power for estimating a simple proportion, and other measures of effect
+- Steps in Estimating Sample Size
+    - Identify major study variable
+    - Determine type of estimate (%, mean, ratio,...)
+    - Indicate expected frequency of factor of interest
+    - Decide on desired precision of the estimate
+    - Decide on acceptable risk that estimate will fall outside its real population value
+    - Adjust for population size
+    - Adjust for estimated design effect
+    - Adjust for expected response rate
+- **α** and *Confidence Level*
+    - α : The significance level of a test: the probability of rejecting the null hypothesis when it is true (or the probability of making a Type I error).
+    - Confidence level: The probability that an estimate of a population parameter is within certain specified limits of the true value; commonly denoted by ==1-α== .
+- **β** and *Power*
+    - β : The probability of failing to reject the null hypothesis when it is false (or the probability of making a Type II error).
+    - Power: The probability of correctly rejecting the null hypothesis when it is false; commonly denoted by ==1-β==
+	    - Minimum recommended level of power is 80%
+- Precision
+	- A measure of how close an estimate is to the true value of a population parameter. It may be expressed in absolute terms or relative to the estimate.
+- Sample Size Required for Estimating Population *Mean*
+    - Suppose we want an interval that extends d units on either side of the estimator
+- d = (reliability coefficient) x (Standard error)
+    - If sampling is from a population sufficiently large size, the equation is:
+- d = z s
+- n
+    - When solved for n gives:
+- n = z2 s2
+- d2
+- Example 1 What Sample Size Do I Need If . . . ?
+    - A health department nutritionist , wishing to conduct a survey among a population of teenage girls to determine the average daily protein intake
+	- What information is needed to estimate the sample size?
+	    - The nutritionist must provide three items of information: the desired width of the confidence interval, the level of confidence desired, and the magnitude of the population variance
+    - Solution: The nutritionist would like an interval about 10 units wide; that is, the estimate should be within about 5 units of the true value in either direction. A confidence coefficient of .95 is decided and on that, from past experience, the nutritionist feels that the population standard deviation is probably about 20 grams.
+    - Summarizing the information: z = 1.96, s = 20, and d = 5
+    - Calculation:
+		- ![[Pasted image 20220223105514.png]]
+- A note on Population Standard Deviation **σ**
+    - The formulas for sample size require knowledge of σ2. However, in general, the population variance is unknown and has to be estimated:
+	    - A pilot or preliminary sample. Observations used in the pilot can be counted as part of the final sample
+	    - Estimates may be available from previous studies
+	    - If thought that the population is approximately normally distributed, we may use the fact that the range (R) is approximately equal to 6 standard deviations.
+			- σ = R/6
+- Sample Size Required for Estimating *Proportions*
+    - The formula requires the knowledge of p, the proportion in the population possessing the characteristic of interest. However, this is what we are trying to estimate and is unknown
+    - A pilot or preliminary sample. Observations used in the pilot study can be counted as part of the final sample
+    - Estimates may be available from previous studies and the upper bound of p can be used in the formula
+    - If impossible to come with a better estimate, set p = 0.5 in the formula to yield the maximum value of n
+	- The method is essentially the same as for population mean. Assuming random sampling and approximate normality in the distribution of p, brings us to the formula for n if sampling is with replacement, from a population sufficiently large to warrant ignoring the finite population correction :
+- Where q = 1 � p
+- n
+- z
+- pq
+- =
+- d
+- Example 2 --> What Sample Size Do I Need If . . . ?
+    - I want to estimate the true immunization coverage in a community of school children
+    - Previous studies tell us that immunization coverage should be somewhere around 80%
+    - Precision (absolute): we'd like the result to be within 4% of the true value
+    - Confidence level: conventional = 95% = 1 - a; therefore, a = 0.05 and z(1-a/2) = 1.96 = value of the standard normal distribution corresponding to a significance level of 0.05 (1.96 for a 2-sided test at the 0.05 level)
+    - d = absolute precision = 0.04
+    - p = expected proportion in the population = 0.80
+    - z(1-a/2) = 1.96 = value of the standard normal distribution corresponding to a significance level of a (1.96 for a 2-sided test at the 0.05 level)
+    - ![[Pasted image 20220223105334.png]]
+- **Design Effect**
+    - A bias in the variance introduced in the sampling design, by selecting subjects whose results are not independent from each other; relative change (increase) in the variance due to the use of clusters.
+    - The design effect can be calculated after study completion, but should be accounted for at the design stage.
+    - The design effect is 1 (i.e., no design effect) when taking a simple random sample.
+    - The design effect varies using cluster sampling; it is usually estimated that the design effect is 2 in immunization cluster surveys.
+- What You Need to Calculate Sample Size for Analytical Studies
+    - Desired values for the probabilities of α and β
+    - The proportion of the baseline (controls or non-exposed) population
+	    - EXPOSED (for case-control studies), or
+	    - DISEASED (for cohort/intervention studies)
+	    - Often based on previous studies or reports
+    - Magnitude of the expected effect (RR, OR)
+	    - Often based on previous studies or reports
+	    - Minimum effect that investigator considers worth detecting
+    - Formula: different formulae depending on study design, research question, and type of data
+- Example 3 --> What Sample Size Do I Need If . . . ?
+    - Cohort study of oral contraceptive (OC) use in relation to risk of MI among women of childbearing age
+    - Previous studies
+    - Proportion of non-OC users who are at risk of disease = 0.15
+    - Proportion of OC-users who are at risk of disease = 0.25
+    - Conventional alpha = 0.05 (two-sided)
+    - Conventional beta = 0.20 (80% power to detect a difference if one truly exists)
+    - Assume equal sample sizes (n1 = n2)
+    - p0 = proportion of non-OC users who are diseased = 0.15
+    - p1 = proportion of OC-users who are diseased = 0.25
+    - q0 = (1-p0) = 1.0 - 0.15 = 0.85
+    - q1 = (1-p1) = 1.0 - 0.25 = 0.75
+    - z(1-a/2) = 1.96 = value of the standard normal distribution corresponding to a significance level of (1.96 for a 2-sided test at the 0.05 level)
+    - z(1-b) = 0.84 = value of the standard normal distribution corresponding to the desired level of power (0.84 for a power of 80%)
+    - ![[Pasted image 20220223105945.png]]
+- Example 4 --> What Size Sample Do I Need If . . . ?
+    - Case-control study of oral contraceptive (OC) use in relation to risk of MI among women of childbearing age
+    - Previous studies: 10% of women use OCs
+    - OR of MI associated with current OC use = 1.8
+    - Conventional a = 0.05 (two-sided)
+    - Conventional b = 0.20 (80% power to detect difference if one truly exists)
+    - Assume equal sample sizes (n1=n2)
+    - p0 = proportion of controls who are current OC users = 0.10
+    - p1 = proportion of cases who are current OC users = 0.18
+    - q0 = (1-p0) = 1.0- 0.10 = 0.90
+    - q1 = (1-p1) = 1.0 - 0.18 = 0.82
+    - z(1-a/2) = 1.96 = value of the standard normal distribution corresponding to a significance level of a (1.96 for a 2-sided test at the 0.05 level)
+    - z(1-b) = 0.84 = value of the standard normal distribution corresponding to the desired level of power (80%)
+    - ![[Pasted image 20220223110054.png]]
+- Sample Sizes: Case-Control Study of OC Use and MI
+
+|OR |Required sample sizes|
+|--|--|
+| 1.2 |3834|
+| 1.3 |1769|
+| 1.5 |682|
+| 1.8| 291|
+| 2.0 |196|
+| 2.5| 97|
+| 3.0 | 59|
+
+- **The 10% Rule**
+    - Note that sample-size estimates should be interpreted as providing merely a MINIMUM estimate of the sample sizes necessary for the study
+    - The formula takes into account only the overall crude association between exposure & disease; i.e., no confounders are considered
+    - 10% rule: increase the sample size 10% for each confounder/variable added
+- **Free Soft wares for Sample Size**
+	- OpenEpi
+		- Supported by Centers for Disease Control and
+		- Prevention, Atlanta
+		- www.openepi.com
+	- PS: Power and Sample Size Calculation
+		- by Department of Bio statistics
+		- Vanderbilt University
+		- http://biostat.mc.vanderbilt.edu/wiki/Main/PowerSampleSize
+- (Video Transcript)
+	- in this module, we are going to see some aspectsof sample size, how much subjects you require to do a study and some of the concepts thatgoes behind the Calculation of Sample Size.The usual question most of the investigators they have in their mind when they want torather start doing a research study is, how much subjects that I should recruit in tomy study?How many patients I should see?How many households that I should cover?And a simple answer for this question is there is no simple answer.This requires a little bit of logical thinking like, and usually it depends on some of theinformation that we already should know before we start our study.So in this module, we will try to understand, what’s the relationship between sample sizeand I am going to introduce you, to a concept called power.And, we also try to rather determine the sample size, which is absolutely essential or necessaryto achieve a given level of power for estimating may be a simple proportion or any other measuresof effect.As I was mentioning to you, there is no simple answer for estimating a sample size.We need to go in a systematic manner and let me rather take you step by step in the processof estimating sample size.First of all, you will have to identify, what is a major study variable you are planningto study?In any investigation, you will be seeing a number of things, you will have to identifywhich among them is the most important variable, which you want to rather study about.Say for example, when you are studying on may be scrub typhus in a community; your aimmay be to estimate a prevalence of scrub typhus in which case, the variable whether a personhas got scrub typhus or not is a major variable.Suppose, if your interest, is not on the prevalence but on some of the associated factors, whethera person has been exposed to a forest or something like that, in that case that becomes the majorstudy variable.Then the second step is to determine the type of estimate.Are you going to rather study at mean or a ratio or a percentage or proportion becauseaccordingly we need to rather re-frame or have a formulae for computing the sample size.Then one of the important things that comes out it is, you need to indicate the expectedfrequency of factor of interest, common sense says, suppose if you are going to rather studysomething very rare you need to rather have a large sample, unless you see a very largenumber of people you may not probably get sufficient number of people with the factorof your interest.On the other hand, if you are going to rather study something which is very common, in thatcase you do not need a large sample even and a small sample you may be able to rather givefairly a good sufficient and a precise estimate of your factor of interest.Then the next factor is, the decide precision of the estimate.How precise you want your estimate to be?You want your estimate to be within 5 percent this side that side or within 10 percent thisside that side.As you want your estimate to be more precise then naturally you need to rather have a largersample.If you are willing to rather give say plus or minus 20 percent, then probably your samplesize will be small as compared to plus or minus 10 percent.Then the next point is, I want plus or minus 10 percent but how sure I want that my estimateis plus or minus 10 percent?What is the amount of rather risk that I am willing to accept?Whether a 5 percent risk or a 10 percent risk.So These are all some of the elements that are essential to compute the sample size andinvariably these are all the elements that has to be rather given by the investigatorto whoever is computing the sample size.The other three items that I have rather given are, you have to adjust what population size.Are you going to take your sample from a very large population?Or you are going to rather take from a small population?Because usually the sample size formulae assume that you are taking a sample from a very largepopulation.If you are going to rather take your sample from a small population, you need to do someadjustment factor into it.The next is, adjust for estimated design effect.See in my earlier lecture on sampling I talked to you about a clustered design effect, whereinyou are going to rather select not individual subjects as your sample but you are goingto rather select cluster of subjects as your sample.There could be a correlation between the subjects in the same cluster.So, in order to get over it you need to multiply your sample size by a factor called Designeffect so that you have a larger sample which takes care of this correlation within thesubjects in a cluster.Then the last bullet point in this, it is adjust for expected response.You have to rather you know, you decide that you want to do 300 and if you just go andstudy 300 maybe you know 10 percent of them they did not turn up and you have only 230.In order to adjust for that you have some may be 10 percent extra as your sample sizeso that assuming a non-response, you still have sufficient sample to answer your question.I am going to introduce you now to some concepts, which are essential to understand the computationof sample size.The first one is the alpha or the Type I error, the significance level of a test.What do you mean by that?It is the probability of rejecting the null hypothesis when actually it is true.In the statistical parlance, it is called Type I error.And the confidence level is the complement of that, that is 1 minus alpha and that isnaturally the probability that an estimate of a population parameter is within certainspecified limits of the true value.The next are beta and Power.Beta is nothing but the probability of failing to reject the null hypothesis when actuallyit is false.So, if something is false you have to reject it, but you accept it and the probabilityof making this is called a Type II error.And the complement of that is 1 minus beta is commonly denoted as power and which isa correct decision and that is nothing but probability of correctly rejecting the nullhypothesis when it is false.Another important concept that goes into the computation of sample size is the Precision.By precision what you mean is?It is a measure of how close an estimate is to the true value of a population parameter.It may be expressed in absolute terms or relative to the estimate.They say plus or minus 10 percent or plus or minus 10 percent of the estimate.Now, let us look into a scenario where you need to compute a sample size and your interestis to estimate the Mean of a Population.You have a sample, you have to compute a sample mean and you want to estimate the populationmean from your sample mean.And what should be the sample size that you need?So, the general idea of the computation of sample size is, it is always a reliabilitycoefficient into standard error is called d and through d, we can estimate the samplesize n.Say, the d is a formula given here is z into sigma by square root of n.How do we get that?We get that mainly using the concept of a sampling distribution.What do you mean by sampling distribution?Suppose, I take several samples of the same size and each of the sample given estimateof the population mean and if I have a distribution of all those sample means, theoretically,it is proved that, that distribution is at normal distribution and also the standarderror which is the standard deviation of that state distribution is given by sigma by rootn.So, what we normally we do it is?We try to rather have see the using the principles of normal distribution 2 sigma limit of thesampling error 95 percent of the values they lie.So The z in the formulae is nothing but the standard normal deviate for a particular levelof significance.And suppose, the idea of sample size is you fix that and then when you fix that you haveonly one unknown namely, the n in the denominator and if we can solve for the n, which is nothingbut n is equal to z square into sigma square by d square, then you get an idea of whatthe n is.I think you know these concepts will get clearer, if you see an example.A health department nutritionist, he wishes to do a survey among population of teenagegirls to determine the average daily protein intake.So, that is the research problem.And what information is needed to estimate the sample size?So the nutritionist must provide three items of information.The first one, the desired width of the confidence interval, the next one, is the level of confidencedesire and you should rather give a rough magnitude of the population variance.Assume, that he gives them all, say the nutrition feels that the 10 units this side and thatside is what he is expecting, which means now 10 units on the whole, so 5 units thisside and 5 units that side and the confidence coefficient of 95 percent is decided upon,and from his past experience from the literature review, the nutritionist feel that the populationstandard deviation is probably about 20 grams.Now, we have the information z is 1.96 because 95 percent confidence interval has got a correspondingz value of a normal distribution 1.96.Sigma is already given as 20 and then the desired length d is 5 units this side or thatside.If you plug in all these value into the formula, it become n is equal to 1.96 square 20 squaremultiply these two, divided by 5 square it comes to 61.47.Which means you need to have at least 62 teenage girls in order to get an estimate of the meanprotein intake and the estimate that you gave 95 percent of the time will be within 5 unitsthis side or that side of the true mean population mean of protein intake.In this formula, we have sigma that is the population variance.And in most scenarios you may not probably know a value of sigma because this is studyyou are going to rather do sigma may not be available and how to get a sigma?One of the way that you can get this variance is do a pilot survey, preliminary survey.Of course, you can even use this observation used in the pilot for your final sample tool.An estimate available from the pilot survey could be used or you can use an estimate whichis available from previous studies, and suppose you know you have a large data available andyou have the range of the data, assuming that it is normally distributed, you can get anapproximate value of sigma as the range divided by 6.So, these are all ways of getting the value of sigma in your formula.Suppose, we are going to estimate a Proportion not a mean, the formula is more or less similarbut what you need to give is you must rather have knowledge of p that is the proportionof the characteristic or the factor of interest in the population.This also may not be, see you are going to do a study to estimate a proportion and invariablywhen I ask this question to the investigator he says, Sir, I am going to do a study tofind it, how can I have an idea of p, can probably as I had rather mentioned earlierhe can probably do a pilot study to get an idea of p or you can get from the literature,what could be the value of p and if it is impossible then the best thing is to estimateto get a value of p as 0.5, so that it is the maximum value of n.So the formula for that is very simple the n is the z square and d square in the denominatorare common and here instead of your sigma what you have is the pq, where q is nothingbut 1 - p.This also will be clearer if you see an example.Suppose, want to estimate the true immunization coverage in a community of school children.Previous studies tell us that the immunization coverage should be somewhere around 80 percent.Suppose the absolute precision, we would like the result to be within 4 percent of the truevalues.Then the confidence interval which is conventionally taken as 95 percent and 1 minus alpha therefore,there are 5 percent alpha level, z alpha is 1.96.Then we have all the values that are needed for our calculation, d the absolute precisionis 0.04, p the expected proportion of population is 0.8.So naturally the q must be 0.2 then z alpha is 1.96.And when we plug them all into a formulae what we get is 384.So, you need 384 subjects to get an estimation of the immunization coverage, within 4 percentagesthis side or that side and you have 95 percent confidence that the true value lies in thisparticular interval.So, we had seen something I talked about the design effect earlier.The define design effect is caused because of a bias in the variance introduced in thesampling design by selecting subjects, whose results are not independent from each otherbecause in a cluster there may be you know, suppose a child is immunized in the firsthouse hold there is a firmly a large chance that the child in the next house also is immunized,you cant say that it would be absolutely independent.In order to account for that you need to multiply your sample size by a factor called DesignEffect.In similar sort of scenario, suppose we are going to rather do a case-control study ora cohort study and how you should go about in estimating the sample size.What you need is the desired value of the probabilities of alpha and beta and the proportionof base line or there is a control or non-exposed population.In the case of case control studies, the proportion of exposed or in the case of cohort studies,the proportion of disease and you need to rather have some idea of them.These are all often based on previous studies or reports and also you should have some sortof an idea of the magnitude of the expected effect that is the magnitude of relative riskor odds ratio.This again is based on a previous studies or reports.And what is the minimum effect the investigator considers?What is detecting?These are all some of the information once it provided then there are very easy formulaavailable, the different formula depending on the study design, research question andthe type of data.Now, let us take few examples and this example should rather give you some idea of, how thesample size is computed in different scenarios?Take for example, a cohort study of oral contraceptive use in relation to the risk of myocardialinfarction among women of childbearing age.Previous studies have indicated that the proportion of non-OC users who are at risk of diseaseis 0.15 that is 15 percent of non-OC users’ women of childbearing age have a risk of myocardialinfarction.So, proportion of OC users who are at risk of disease is 0.25 and the conventional alphais 0.05.Suppose, the beta is taken as 20, 0.20 that is you want 80 percent power to detect thedifference if it truly exists and assume that you are going to rather have equal samplesizes for your users and non-users.The formula is obtained using these following parameters you know p nought which is nothingbut proportion of non-OC users who are diseased, which is given as 0.15.p1 is proportion of OC users who are diseased, which is given as 0.25 and your q nought whichis a complement of p nought is 0.85.Your q1 is a complement of p1 which is 0.75.Z alpha is 1.96 we saw in the last example.Z beta is 0.84.We have all these values which can be plugged into the formula, which gives n is equal to216.96 or 247.So we need to have 247 OC users and 247 non-OC users, follow them over a period to get adesired result.Now, let us take an example of a case-control design.How do you go about?In the case control study of oral contraceptives use in relation to the risk of myocardialinfarction among woman of childbearing age.Previous studies says 10 percent of woman use OCs and OR of MI associated with currentOC use is 1.8.Then the other thing as conventional alpha as 0.05, conventional beta is 0.20 and assumingequal size for case in control.And see you have all these parameters p nought is equal to the proportion of controls whoare current OC users which is 0.1.p 1 is equal to proportion of cases, who are current OC users and that is 0.18.Q nought is 0.9 and q1 is 0.82.Z alpha 1.96, z beta is 0.84.If you plug them on in a formula then you get 291.06 which indicate that you need torather have 291 or 292 cases and 292 controls in order to get an estimate of your OR.Now, this slide gives you the required sample size for various OR.Say for example, you want to detect an OR of 1.2 then you need a sample size of 3834.Whereas you have to estimate an OR of 3, it is enough you have 59 in each group.So, what it means it is, if you want to detect a very small difference then you need to havea large sample to identify that small difference.If you want to detect the large difference then it is enough you have a small sample,then you know you will be able to get an estimate of your OR which is 3 or more.Then see in any of this analytical studies, when you are looking for an association ofone variable, there could be a third factor which could be effecting the values of thisassociation, which is in the epidemiological parlance, we call that as confounders.There could be one variable or two variables, which are confounders in a particular association.The general rule is, if you have some confounders in your studies you hike your sample sizeby 10 percent for every confounder variable that you have.Now, having seen different scenarios, where the sample size is computed and then the conceptsbehind it, I am going to introduce you to 2 softwares, which are free softwares in theopen source, which can be very easily used to compute sample size of different studydesigns.One is called OpenEpi and this software is supported by the CDC Atlanta and the websitefor that is www dot openepi dot com and it is very, very simple software to use.There is a tutorial in for this particular software which gives you some examples anddepending on what sort of a study design that you have, you can plug in the values thatthe software ask and you will get the desire sample size.Another one, which is called PS that is Power and Sample size calculation, this is by theDepartment of Bio statistics Vanderbilt University, this is also an open source software.This is also fairly user friendly software where you can rather compute to your samplesizes.So, wherever you do an investigation and when you compute the software, you give the softwarein your reference saying that you use this particular software and these are all theassumptions or these are all the values that you had rather plugged-in in this software,so that this is my sample size.This should be reflected in your method section.So, to recapitulate the module, sample size there is no magic number as sample size available.Sample sizes have to be computed using various parameters that are supplied by the investigator.Investigator may have some idea of it ready made, if he does not have those ideas youmay have to probably do a pilot study to get this kind of an idea.And then you know it depends on, how much risk that you are willing to take?How much precision that you want on your estimates?And this is usually there is no fixed number we can always negotiate depending on the resourcesthat are available in terms of money and time.Suppose, you know I say you need to rather have 300 and you do not have that much resourceand you do not have that much time to do, you can always rather they know reduce thesample size, but you should know what price that you are going to pay for reducing youmay have to compromise on the precision or the risk that you will be taking on this sortof estimates.
+# Next chapter --> [[Planning a research study]]

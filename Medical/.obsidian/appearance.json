@@ -1,0 +1,12 @@
+{
+  "baseFontSize": 16,
+  "cssTheme": "Sanctum",
+  "theme": "moonstone",
+  "translucency": false,
+  "accentColor": "",
+  "monospaceFontFamily": "Castellar",
+  "interfaceFontFamily": "",
+  "baseFontSizeAction": false,
+  "nativeMenus": false,
+  "showViewHeader": true
+}

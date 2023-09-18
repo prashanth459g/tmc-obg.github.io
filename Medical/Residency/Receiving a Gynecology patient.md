@@ -1,0 +1,193 @@
+---
+Aliases: 
+---
+# Receiving a Gynecology patient
+>  Front page
+> - Height, weight, BMI 
+> - PAP smear status
+- Date & time of receiving
+- Demographic details --> name, age, From ___ town, studies upto, working as
+	- married to Mr. ___ ± age, occupation
+	- belongs to kuppuswamy classification of SES
+### History - always in patient words, no medical jargon
+- Chief Complaints --> in chronological order in just single sentences 
+	- 
+- Obs and menstrual --> 
+	- Nullipara/multipara
+		- details of 🤰 if relevant
+		- marital history - at the age of 
+		- Contraception history
+	- Menstrual history --> 
+		- regular cycles?
+			- .../...... days, h/o clots, dysmenorrhea 
+		- Menarche/menopause
+		- last 3 cycles if relavant
+- HOPI → start describing -> __ yr old lady
+	- Presenting illness
+		- Pain/discomfort - since ___
+			- onset - sudden or insidious
+			- Aggravating/relieving factors - 
+		- h/o Bleeding PV
+		- Mass 
+			- location - lower abdomen
+			- since
+			- associated with pain
+			- variation in size/shape with position/straining 
+		- Fever
+	- Negative history
+		- h/o  Long standing fever/ cough or evening rise of temperature - *TB*
+		- h/o weigh loss/ loss of appetite - *Cancers*
+		- easy fatiguablity / tiredness / palpitation - *Sever anemia*
+		- h/o urinary symptoms - *UTI, SUI / cystocele*
+		- h/o Constipation/bleeding PR/ diarrhea - *Rectocele/hemorrhoids*
+		- h/o Mass PV - *POP*
+- Medical History -->
+	- **Anemia**
+		- Treated with Fe BD/ orofer/ PRBC
+		- Deworming done?
+		- PS, Ferritin, LDH --> reports
+		- Last Hb
+	- **DM** 
+		- F/PPBS values
+		- End organ evaluation
+	- **HTN**
+		- When was it detected?
+		- on what medication, are they contraindicated in PAC?
+	- **Seizure**
+		- When was detected
+		- last seizure episode
+		- on which drug, dose and last neurology follow-up report
+	- **Thyroid disorder**
+		- Since How many years
+		- on Tab. Thyronorm \_\_ mcg OD
+		- Last TSH
+	- **Heart disease**
+		- NYHA grading
+		- since how many years
+		- symptoms if any, Rx if any, regular follow up, last cardiac consultation date & Advice
+	- Asthma/COPD/ TB
+- Drug history 
+	- h/o blood transfusion
+	- Any h/o **Drug allergy** --> allergy chart
+	- Teratogenic drug intake
+	- HRT/Contraceptive usage
+- Past surgical history 
+	- for what, when, what Sx
+- Family history --> Gynecology patients & Genetic disease patients
+	- Pedigree chart
+	- Any history breast/endometrial/ovarian/colon cancer in the family
+- Personal history 
+	- sleep regular
+	- mixed diet
+	- normal bladder & bowel movement
+	- no addiction
+- SES - income
+----
+### Examination
+- General Physical examination
+	- Conscious, oriented
+	- ht, wt, BMI
+	- Pallor,  icterus, cyanosis, 
+	- pedal edema, lymphadenopathy
+	- Febrile?
+	- PR - rate, rhythm, character, volume, other peripheral pulses
+	- BP - in a right arm sitting postion
+	- RR - regular
+	- Spo2, afebrile
+	- B/L breast - no lumps/masses
+	- Thyroid - normal 
+	- Spine & gait - normal
+	- ± head to toe
+- Systemic examination
+	- CVS - S1 S2 heard
+	- RS - clear AEBE, no added sound, no e/o pleural effusion
+	- CNS - no FND
+	- ± GI - oral cavity normal
+- P/A - patient examined after obtaining consent, in an empty the bladder & exposed from xiphisternum to pubic symphysis, and flanks in the presence of chaperone
+	- **Inspection** findings
+		- Fullness noted in 
+		- Umblicus - at center, moved up/down/side, everted/inverted 
+		- Skin - normal, no scar/dilated veins /visible peristalsis/pulsation
+			- Scar - healed normally/keloid/sinuses' 
+		- All quadrant move equally with respiration
+		- Hernial orifices - intact/normal
+		- Mass becomes less/more prominent on leg rising
+	- **Palpation** findings - always from normal/non-tender area ---> Abnormal/tender area
+		- Mass
+			- a (shape) irregularly enlarged soft/tense mass of ~   x   cm size palpable in the lower abdomen, arising from LIF/midline and extending in to lumbar/umblical/hypogastrium 
+				- with well-defined borders on right side, all borders palpable
+				- non tender to touch 
+				- mobility present in vertical/longitudinal/AP axis, no restriction to mobility, ?differential mobility
+			- *Mass from pelvis* - no lower border felt/ can't get below the mass
+			- *midline mass* - ~  wk of gravid uterus
+			- *Ballatoma* - anteroposterior mobility
+			- *Parietal vs intra abdominal mass*
+				- if above umbilicus - head rising test
+				- if below umbilicus - leg rising test
+			- *Retroperitoneal mass* - on all fours, mass doesn't fall forward
+			- Pulsation - transmitting/ expansile - *mass above the aorta/ mass of aneurysm*
+		- No hepatomegaly/splenomegaly/inguinal lymphadenopathy
+	- **Percussion**
+		- Dull note over the mass
+			- solid organ - dull, intestinal loops - Resonant, Ovarian cyst - dull
+		- Tidal percussion - normal
+			- Percuss down the back until the normal hyperresonance of the lungs becomes dull over the diaphragm. Then simply have the patient breath in and out deeply while continuing to percuss. The sound should wax and wane. Loss of tidal percussion: Pleural effusion.
+		- Traube space - tympanic sound *of stomach* - dull in splenomegaly
+	- **Auscultation**
+		- Bowel sounds
+		- No bruit over the mass
+- ==Pelvic & Urogenital Examination==
+	- in empty bladder positioned in dorsal flexion posture with adequate lighting & communicating with patient about every step of the examination
+		- Full bladder may be required in examination of SUI
+	- **External genitalia/local examination** - mention +ve findings and say otherwise normal
+		- Skin, swelling(growth), secretions
+		- Mons
+		- Labia majora and minora
+		- Clitoris
+		- Perineal body
+		- sparse - pubic hair
+		- Vulva - atrophic
+	- **P/S** - always lubricate (use less in PAP and HVS), Insert the speculum in the direction of slit & rotate 90° to transverse axis
+		- Vagina pink/pale with rugosities, no Gartner/Bartholin cyst
+		- Cervix(portio vaginalis) - healthy, OS visualized
+		- TZ seen
+		- No polyp/ Nabothian cyst
+	- **Bimanual or PV** - Abdominal findings confirmed here with additionally ___
+		- Cervix - pulled up
+		- Uterus - version and flexion, size, mobility(restricted/transmission, separately from mass), tender
+		- 4 Fornix - full, tender, nodularity
+			- mass can be felt in 
+			- same felt per abdomen
+			- transmitted mobility 
+		- Adnexa - empty/groove sign
+	- **Bidigital or Rectovaginal** - index(vagina), middle finger(rectum)
+		- Perineal body - induration/increased thikness
+		- RV septum - normal
+		- POD
+	- **P/R**
+		- rectal mucosa - normal
+		- Parametrium - free
+		- Sphincter tone - normal
+		- POD - nodularity
+		- hook for rectocele
+
+---
+### Summary - only +ve findings needs to briefed here
+___ yr old nullipara/multipara women belongs to ___ SES, presents with complaints of 
+
+- On examination, she is a moderately built, well nourished lady. General physical examination is normal, vitals stable
+	- on P/A examination
+	- on pelvic examination 
+
+
+----------
+### Impression/Diagnosis 
+___ yr old multiparous lady with ___ findings, most probably case of ___ for further evaluation and management
+
+
+
+-----
+
+### Examples
+1. [[Gynec 001 ovarian tumor - FOCUS.pdf]]
+2. 

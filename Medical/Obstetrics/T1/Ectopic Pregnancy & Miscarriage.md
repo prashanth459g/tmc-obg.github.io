@@ -1,0 +1,357 @@
+---
+Aliases: 
+---
+### Index
+- Previous chapter -->
+- Next Chapter[^1] -->
+- Sources -
+	- [[NICE ectopic-pregnancy-and-miscarriage-diagnosis-and-initial-management-pdf-66141662244037.pdf]]
+- 
+# Ectopic Pregnancy & Miscarriage
+### #Guidelines/NICE 
+- www.nice.org.uk/guidance/ng126
+	- Published: 17 April 2019
+	- Last updated 24 November 2021
+- Overview
+	- This guideline covers diagnosing and managing ectopic pregnancy and miscarriage in women with complications, such as pain and bleeding, in early pregnancy (that is, up to 13 completed weeks of pregnancy). It aims to improve how early pregnancy loss is diagnosed, and the support women are given, to limit the psychological impact of their loss.
+	- In this guideline we use the terms 'woman' and 'women', based on the evidence used in its development. The recommendations will also apply to people who do not identify as women but are pregnant or have given birth.
+ - 1.1 Support and information giving
+	 - 1.1.1 Treat all women with early pregnancy complications with dignity and respect. Be aware that women will react to complications or the loss of a pregnancy in different ways. Provide all women with information and support in a sensitive manner, taking into account their individual circumstances and emotional response. For more guidance about providing information, see the NICE guideline on patient experience in adult NHS services.
+	 - 1.1.2 Healthcare professionals providing care for women with early pregnancy complications in any setting should be aware that early pregnancy complications can cause significant distress for some women and their partners. Healthcare professionals providing care for these women should be given training in how to communicate sensitively and breaking bad news. Non-clinical staff such as receptionists working in settings where early pregnancy care is provided should also be given training on how to communicate sensitively with women who experience early pregnancy complications. 
+	 - For more guidance about support, see recommendation 1.9.4 on traumatic birth, stillbirth and miscarriage in the NICE guideline on antenatal and postnatal mental health. [2012, amended 2019]
+	 - 1.1.3 Throughout a woman's care, provide the woman and (with her consent) her partner specific evidence-based information in a variety of formats. This should include (as appropriate):
+		- when and how to seek help if existing symptoms worsen or new symptoms develop, including a 24-hour contact telephone number
+		- what to expect during the time she is waiting for an ultrasound scan
+		- what to expect during the course of her care (including expectant management), such as the potential length and extent of pain and/or bleeding, and possible side effects; this information should be tailored to the care she receives
+		- information about postoperative care (for women undergoing surgery)
+		- what to expect during the recovery period - for example, when it is possible to resume sexual activity and/or try to conceive again, and what to do if she becomes pregnant again; this information should be tailored to the care she receives
+		- information about the likely impact of her treatment on future fertility
+		- where to access support and counselling services, including leaflets, web addresses and helpline numbers for support organisations. 
+		
+		- Ensure that sufficient time is available to discuss these issues with women during the course of her care and arrange an additional appointment if more time is needed. 
+	 - 1.1.4 After an early pregnancy loss, offer the woman the option of a follow-up appointment with a healthcare professional of her choice. 
+ - 1.2 Early pregnancy assessment services
+	 - 1.2.1 Regional services should be organised so that an early pregnancy assessment service is available 7 days a week for women with early pregnancy complications, where scanning can be carried out and decisions about management made. 
+	 - 1.2.2 An early pregnancy assessment service should:
+		- be a dedicated service provided by healthcare professionals competent to diagnose and care for women with pain and/or bleeding in early pregnancy and
+		- be staffed by healthcare professionals with training in sensitive communication and breaking bad news. 
+	 - 1.2.3 Early pregnancy assessment services should accept self-referrals from women who have had recurrent miscarriage or a previous ectopic or molar pregnancy. Although additional care for women with recurrent miscarriage is not included in the scope of the guideline, the Guideline Development Group recognised that it is common clinical practice to allow these women to self-refer to an early pregnancy assessment service and wished this to remain the case. All other women with pain and/or bleeding should be assessed by a healthcare professional (such as a GP, accident and emergency [A&E] doctor, midwife or nurse) before referral to an early pregnancy assessment service. [2012]
+	 - 1.2.4 Ensure that a system is in place to enable women referred to their local early pregnancy assessment service to attend within 24 hours if the clinical situation warrants this. If the service is not available, and the clinical symptoms warrant further assessment, refer women to the nearest accessible facility that offers specialist clinical assessment and ultrasound scanning (such as a gynaecology ward or A&E service with access to specialist gynaecology support). 
+ - 1.3 Symptoms and signs of ectopic pregnancy and initial assessment
+	 - 1.3.1 Refer women who are haemodynamically unstable, or in whom there is significant concern about the degree of pain or bleeding, directly to A&E.
+	 - 1.3.2 Be aware that atypical presentation for ectopic pregnancy is common.
+	 - 1.3.3 Be aware that ectopic pregnancy can present with a variety of symptoms. Even if a symptom is less common, it may still be significant. Symptoms of ectopic pregnancy include:
+		- common symptoms:
+			- abdominal or pelvic pain
+			- amenorrhea or missed period
+			- vaginal bleeding with or without clots
+		- other reported symptoms:
+			- breast tenderness
+			- gastrointestinal symptoms
+			- dizziness, fainting or syncope
+			- shoulder tip pain
+			- urinary symptoms
+			- passage of tissue
+			- rectal pressure or pain on defecation.
+	 - 1.3.4 Be aware that ectopic pregnancy can present with a variety of signs on examination by a healthcare professional. Signs of ectopic pregnancy include:
+		- more common signs:
+			- pelvic tenderness
+			- adnexal tenderness
+			- abdominal tenderness
+		- other reported signs:
+			- cervical motion tenderness
+			- rebound tenderness or peritoneal signs
+			- pallor
+			- abdominal distension
+			- enlarged uterus
+			- tachycardia (more than 100 beats per minute) or hypotension (less than 100/60 mmHg)
+			- shock or collapse
+			- orthostatic hypotension. 
+	 - 1.3.5 During clinical assessment of women of reproductive age, be aware that:
+		- they may be pregnant, and think about offering a pregnancy test even when symptoms are non-specific and
+		- the symptoms and signs of ectopic pregnancy can resemble the common symptoms and signs of other conditions - for example, gastrointestinal conditions or urinary tract infection.
+	 - 1.3.6 All healthcare professionals involved in the care of women of reproductive age should have access to pregnancy tests. 
+	 - 1.3.7 Refer immediately to an early pregnancy assessment service (or out-of-hours gynaecology service if the early pregnancy assessment service is not available) for further assessment of women with a positive pregnancy test and the following on examination:
+		- pain and abdominal tenderness or
+		- pelvic tenderness or
+		- cervical motion tenderness.
+	 - 1.3.8 Exclude the possibility of ectopic pregnancy, even in the absence of risk factors (such as previous ectopic pregnancy), because about a third of women with an ectopic pregnancy will have no known risk factors.
+	 - 1.3.9 Refer to an early pregnancy assessment service (or out-of-hours gynaecology service if the early pregnancy assessment service is not available) women with bleeding or other symptoms and signs of early pregnancy complications who have:
+		- pain or
+		- a pregnancy of 6 weeks' gestation or more or
+		- a pregnancy of uncertain gestation. The urgency of this referral depends on the clinical situation. 
+	 - 1.3.10 Use expectant management for women with a pregnancy of less than 6 weeks gestation who are bleeding but not in pain, and who have no risk factors, such as a previous ectopic pregnancy. Advise these women:
+		- to return if bleeding continues or pain develops
+		- to repeat a urine pregnancy test after 7 to 10 days and to return if it is positive
+		- a negative pregnancy test means that the pregnancy has miscarried.
+	 - 1.3.11 Refer women who return with worsening symptoms and signs that could suggest an ectopic pregnancy for further assessment. The decision about whether she should be seen immediately or within 24 hours will depend on the clinical situation. 
+	 - 1.3.12 If a woman is referred to an early pregnancy assessment service, explain the reasons for the referral and what she can expect when she arrives there. 
+ - 1.4 Diagnosis of viable intrauterine pregnancy and of tubal ectopic pregnancy
+	 - 1.4.1 Offer women who attend an early pregnancy assessment service a transvaginal ultrasound scan to identify the location of the pregnancy and whether there is a fetal pole and heartbeat.
+	 - 1.4.2 Consider a transabdominal ultrasound scan for women with an enlarged uterus or other pelvic pathology, such as fibroids or an ovarian cyst. 
+	 - 1.4.3 If a transvaginal ultrasound scan is unacceptable to the woman, offer a transabdominal ultrasound scan and explain the limitations of this method of scanning.
+- Using ultrasound scans for diagnosis of viable intrauterine pregnancy
+	- 1.4.4 Inform women that the diagnosis of miscarriage using 1 ultrasound scan cannot be guaranteed to be 100% accurate and there is a small chance that the diagnosis may be incorrect, particularly at very early gestational ages. [2012]
+	- 1.4.5 When performing an ultrasound scan to determine the viability of an intrauterine pregnancy, 
+		- first look to identify a fetal heartbeat. 
+		- If there is no visible heartbeat but there is a visible fetal pole, measure the crown rump length. 
+		- Only measure the mean gestational sac diameter if the fetal pole is not visible.
+	- 1.4.6 If the crown rump length is less than 7.0 mm with a transvaginal ultrasound scan and there is no visible heartbeat, perform a second scan a minimum of 7 days after the first before making a diagnosis. Further scans may be needed before a diagnosis can be made.
+	- 1.4.7 If the crown rump length is 7.0 mm or more with a transvaginal ultrasound scan and there is no visible heartbeat:
+		- seek a second opinion on the viability of the pregnancy and/or
+		- perform a second scan a minimum of 7 days after the first before making a diagnosis. 
+	 - 1.4.8 If there is no visible heartbeat when the crown rump length is measured using a transabdominal ultrasound scan:
+		- record the size of the crown rump length and
+		- perform a second scan a minimum of 14 days after the first before making a diagnosis. 
+	- 1.4.9 If the mean gestational sac diameter is less than 25.0 mm with a transvaginal ultrasound scan and there is no visible fetal pole, perform a second scan a minimum of 7 days after the first before making a diagnosis. Further scans may be needed before a diagnosis can be made. 
+	- 1.4.10 If the mean gestational sac diameter is 25.0 mm or more using a transvaginal ultrasound scan and there is no visible fetal pole:
+		- seek a second opinion on the viability of the pregnancy and/or
+		- perform a second scan a minimum of 7 days after the first before making a diagnosis.
+	 - 1.4.11 If there is no visible fetal pole and the mean gestational sac diameter is measured using a transabdominal ultrasound scan:
+		- record the size of the mean gestational sac diameter and
+		- perform a second scan a minimum of 14 days after the first before making a diagnosis.
+	 - 1.4.12 Do not use gestational age from the last menstrual period alone to determine whether a fetal heartbeat should be visible. 
+	 - 1.4.13 Inform women that the date of their last menstrual period may not give an accurate representation of gestational age because of variability in the menstrual cycle. 
+	 - 1.4.14 Inform women what to expect while waiting for a repeat scan and that waiting for a repeat scan has no detrimental effects on the outcome of the pregnancy. 
+	 - 1.4.15 Give women a 24-hour contact telephone number so that they can speak to someone with experience of caring for women with early pregnancy complications who understands their needs and can advise on appropriate care. See also recommendation 1.1.3 for details of further information that should be provided. 
+	 - 1.4.16 When diagnosing complete miscarriage on an ultrasound scan, in the absence of a previous scan confirming an intrauterine pregnancy, always be aware of the possibility of a pregnancy of unknown location. Advise these women to return for follow-up (for example, hCG levels, ultrasound scans) until a definitive diagnosis is obtained. (See also recommendations on human chorionic gonadotrophin measurements in women with pregnancy of unknown location.)
+- Using ultrasound scans for diagnosis of tubal ectopic pregnancy
+	- 1.4.17 When carrying out a transvaginal ultrasound scan in early pregnancy, look for these **signs indicating there is a tubal ectopic** pregnancy:
+		- an adnexal mass, moving separate to the ovary (sometimes called the 'sliding sign'), comprising a gestational sac containing a yolk sac or
+		- an adnexal mass, moving separately to the ovary, comprising a gestational sac and fetal pole (with or without fetal heartbeat). [2019]
+	- 1.4.18 When carrying out a transvaginal ultrasound scan in early pregnancy, look for these **signs indicating a high probability of a tubal ectopic** pregnancy:
+		- an adnexal mass, moving separately to the ovary (sometimes called the 'sliding sign'), with an empty gestational sac (sometimes described as a 'tubal ring' or 'bagel sign') or
+		- a complex, inhomogeneous adnexal mass, moving separate to the ovary. If these features are present, take into account other intrauterine and adnexal features on the scan, the woman's clinical presentation and serum hCG levels before making a diagnosis. 
+	- 1.4.19 When carrying out a transvaginal ultrasound scan in early pregnancy, look for these signs **indicating a possible ectopic** pregnancy:
+		- an empty uterus or
+		- a collection of fluid within the uterine cavity (sometimes described as a pseudo-sac; this collection of fluid must be differentiated from an early intrauterine sac, which is identified by the presence of an eccentrically located hypoechoic structure with a double decidual sign gestational sac surrounded by 2 concentric echogenic rings in the endometrium). If these features are present, take into account other intrauterine and adnexal features on the scan, the woman's clinical presentation and serum hCG levels before making a diagnosis. (See also recommendations on human chorionic gonadotrophin measurements in women with pregnancy of unknown location.)
+	- 1.4.20 When carrying out a transabdominal or transvaginal ultrasound scan in early pregnancy, look for a moderate to large amount of free fluid in the peritoneal cavity or Pouch of Douglas, which might represent haemoperitoneum. If this is present, take into account other intrauterine and adnexal features on the scan, the woman's clinical presentation and hCG levels before making a diagnosis. 
+	- 1.4.21 When carrying out a transabdominal or transvaginal ultrasound scan during early pregnancy, scan the uterus and adnexae to see if there is a heterotopic pregnancy.
+	- 1.4.22 All ultrasound scans should be performed or directly supervised and reviewed by appropriately qualified healthcare professionals with training in, and experience of, diagnosing ectopic pregnancies. 
+- Human chorionic gonadotrophin measurements in women with pregnancy of unknown location
+	- 1.4.23 Be aware that women with a pregnancy of unknown location could have an ectopic pregnancy until the location is determined. 
+	- 1.4.24 *Do not use serum hCG measurements to determine the location* of the pregnancy. 
+	- 1.4.25 In a woman with a pregnancy of unknown location, place more importance on clinical symptoms than on serum hCG results, and review the woman's condition if any of her symptoms change, regardless of previous results and assessments. 
+	- 1.4.26 Use serum hCG measurements only for assessing trophoblastic proliferation to help to determine subsequent management. 
+	- 1.4.27 Take 2 serum hCG measurements as near as possible to 48 hours apart (but no earlier) to determine subsequent management of a pregnancy of unknown location. Take further measurements only after review by a senior healthcare professional. 
+	- 1.4.28 Regardless of serum hCG levels, give women with a pregnancy of unknown location written information about what to do if they experience any new or worsening symptoms, including details about how to access emergency care 24 hours a day. Advise women to return if there are new symptoms or if existing symptoms worsen. 
+	- 1.4.29 For a woman with an increase in serum hCG levels greater than ==63%== after 48 hours:
+	    - Inform her that she is likely to have a developing intrauterine pregnancy (although the possibility of an ectopic pregnancy cannot be excluded).
+	    - Offer her a transvaginal ultrasound scan to determine the location of the pregnancy between 7 and 14 days later. Consider an earlier scan for women with a serum hCG level greater than or equal to 1,500 IU/litre.
+	    - If a viable intrauterine pregnancy is confirmed, offer her routine antenatal care. See the NICE guideline on antenatal care.
+	    - If a viable intrauterine pregnancy is not confirmed, refer her for immediate clinical review by a senior gynaecologist. 
+	- 1.4.30 For a woman with a decrease in serum hCG levels greater than ==50%== after 48 hours:
+	    - inform her that the pregnancy is unlikely to continue but that this is not confirmed and
+	    - provide her with oral and written information about where she can access support and counselling services; 
+		    - see also recommendation 1.1.3 for details of further information that should be provided
+	    - ask her to take a urine pregnancy test 14 days after the second serum hCG test, and explain that:
+		    - if the test is negative, no further action is necessary
+		    - if the test is positive, she should return to the early pregnancy assessment service for clinical review within 24 hours. 
+	- 1.4.31 For a woman with a decrease in serum hCG levels less than 50%, or an increase less than 63%, refer her for clinical review in the early pregnancy assessment service within 24 hours. 
+	- 1.4.32 For women with a pregnancy of unknown location, when using serial serum hCG measurements, do not use serum progesterone measurements as an adjunct to diagnose either viable intrauterine pregnancy or ectopic pregnancy. 
+- 1.5 Management of miscarriage
+	- Threatened miscarriage
+		- 1.5.1 Advise a woman with a confirmed intrauterine pregnancy with a fetal heartbeat who presents with vaginal bleeding, but has no history of previous miscarriage, that:
+		    - if her bleeding gets worse, or persists beyond 14 days, she should return for further assessment
+		    - if the bleeding stops, she should start or continue routine antenatal care. 
+		- 1.5.2 Offer vaginal micronised progesterone 400 mg twice daily to women with an intrauterine pregnancy confirmed by a scan, if they have vaginal bleeding and have previously had a miscarriage. 
+		- 1.5.3 If a fetal heartbeat is confirmed, continue progesterone until 16 completed weeks of pregnancy. 
+	- Expectant management
+		- 1.5.4 Use expectant management for 7 to 14 days as the first-line management strategy for women with a confirmed diagnosis of miscarriage. Explore management options other than expectant management if:
+		    - the woman is at increased risk of haemorrhage (for example, she is in the late first trimester) or
+		    - she has previous adverse and/or traumatic experience associated with pregnancy (for example, stillbirth, miscarriage or antepartum haemorrhage) or
+		    - she is at increased risk from the effects of haemorrhage (for example, if she has coagulopathies or is unable to have a blood transfusion) or
+		    - there is evidence of infection. 
+		- 1.5.5 Offer medical management to women with a confirmed diagnosis of miscarriage if expectant management is not acceptable to the woman. 
+		- 1.5.6 Explain what expectant management involves and that most women will need no further treatment. Also provide women with oral and written information about further treatment options. 
+		- 1.5.7 Give all women undergoing expectant management of miscarriage oral and written information about what to expect throughout the process, advice on pain relief and where and when to get help in an emergency. See also recommendation 1.1.3 for details of further information that should be provided. 
+		- 1.5.8 If the resolution of bleeding and pain indicate that the miscarriage has completed during 7 to 14 days of expectant management, advise the woman to
+		    - take a urine pregnancy test after 3 weeks, and to return for individualised care if it is positive. 
+		- 1.5.9 Offer a repeat scan if after the period of expectant management, the bleeding and pain:
+		    - have not started (suggesting that the process of miscarriage has not begun) or
+		    - are persisting and/or increasing (suggesting incomplete miscarriage). Discuss all treatment options (continued expectant management, medical management and surgical management) with the woman to allow her to make an informed choice. 
+		- 1.5.10 Review the condition of a woman who opts for continued expectant management of miscarriage at a minimum of 14 days after the first follow-up appointment. 
+	- Medical management
+		- 1.5.11 Do not offer mifepristone as a treatment for missed or incomplete miscarriage. 
+		- 1.5.12 Offer vaginal misoprostol for the medical treatment of missed or incomplete miscarriage. Oral administration is an acceptable alternative if this is the woman's preference. 
+		- 1.5.13 For women with a **missed miscarriage, use a single dose of 800 micrograms of misoprostol**. 
+		- 1.5.14 Advise the woman that if bleeding has not started 24 hours after treatment, she should contact her healthcare professional to determine ongoing individualised care. 
+		- 1.5.15 For women with an **incomplete miscarriage, use a single dose of 600 micrograms of misoprostol**. (800 micrograms can be used as an alternative to allow alignment of treatment protocols for both missed and incomplete miscarriage.)
+		- 1.5.16 Offer all women receiving medical management of miscarriage pain relief and anti-emetics as needed. 
+		- 1.5.17 Inform women undergoing medical management of miscarriage about what to expect throughout the process, including the length and extent of bleeding and the potential side effects of treatment including pain, diarrhoea and vomiting. 
+		- 1.5.18 Provide women with a **urine pregnancy test to carry out at home 3 weeks after medical management of miscarriage** unless they experience worsening symptoms, in which case advise them to return to the healthcare professional responsible for providing their medical management. 
+		- 1.5.19 Advise women with a positive urine pregnancy test after 3 weeks to return for a review by a healthcare professional to ensure that there is no molar or ectopic pregnancy. 
+	- Surgical management
+		- 1.5.20 Where clinically appropriate, offer women undergoing a miscarriage a choice of:
+		    - manual vacuum aspiration under local anaesthetic in an outpatient or clinic setting or
+		    - surgical management in a theatre under general anaesthetic. 
+		- 1.5.21 Provide oral and written information to all women undergoing surgical management of miscarriage about the treatment options available and what to expect during and after the procedure. See also recommendation 1.1.3 for details of further information that should be provided. 
+- 1.6 Management of tubal ectopic pregnancy
+	- 1.6.1 Give all women with an ectopic pregnancy oral and written information about:
+	    - the treatment options and what to expect during and after treatment
+	    - how they can contact a healthcare professional for advice after treatment if needed, and who this will be
+	    - where and when to get help in an emergency. See also recommendation 1.1.3 for details of further information that should be provided. 
+	- 1.6.2 Inform women who have had an ectopic pregnancy that they can self-refer to an early pregnancy assessment service in future pregnancies if they have any early concerns. 
+	- Expectant management
+		- 1.6.3 *Offer* expectant management as an option to women who:
+		    - are clinically stable and pain free and
+		    - have a tubal ectopic pregnancy measuring less than 35 mm with no visible heartbeat on transvaginal ultrasound scan and
+		    - have serum hCG levels of 1,000 IU/L or less and
+		    - are able to return for follow-up. 
+		- 1.6.4 *Consider* expectant management as an option for women who:
+		    - are clinically stable and pain free and
+		    - have a tubal ectopic pregnancy measuring less than 35 mm with no visible heartbeat on transvaginal ultrasound scan and
+		    - have serum hCG levels above 1,000 IU/L and below 1,500 IU/L and
+		    - are able to return for follow-up. 
+		- 1.6.5 For women with a tubal ectopic pregnancy being managed expectantly, *repeat hCG levels on days 2, 4 and 7* after the original test and:
+		    - if hCG levels *drop by 15%* or more from the previous value on days 2, 4 and 7, then **repeat weekly until a negative result** (less than 20 IU/L) is obtained or
+		    - if hCG levels do not fall by 15%, stay the same or rise from the previous value, review the woman's clinical condition and seek senior advice to help decide further management. 
+		- 1.6.6 Advise women that, based on limited evidence, there seems to be no difference following expectant or medical management in:
+		    - the rate of ectopic pregnancies ending naturally
+		    - the risk of tubal rupture
+		    - the need for additional treatment, but that they might need to be admitted urgently if their condition deteriorates
+		    - health status, depression or anxiety scores. 
+		- 1.6.7 Advise women that the time taken for ectopic pregnancies to resolve and future fertility outcomes are likely to be the same with either expectant or medical management. 
+	- Medical and surgical management
+		    - In April 2019, the use of methotrexate in recommendations 1.6.8 to 1.6.11 was off label. See NICE's information on prescribing medicines.
+		- 1.6.8 *Offer* systemic methotrexate to women who:
+		    - have no significant pain and
+		    - have an unruptured tubal ectopic pregnancy with an adnexal mass smaller than 35 mm with no visible heartbeat and
+		    - have a serum hCG level less than 1,500 IU/litre and
+		    - do not have an intrauterine pregnancy (as confirmed on an ultrasound scan) and
+		    - are able to return for follow-up. Methotrexate should only be offered on a first visit when there is a definitive diagnosis of an ectopic pregnancy, and a viable intrauterine pregnancy has been excluded. Offer surgery where treatment with methotrexate is not acceptable to the woman. 
+		- 1.6.9 Offer surgery as a first-line treatment to women who are unable to return for follow-up after methotrexate treatment or who have any of the following:
+		    - an ectopic pregnancy and significant pain
+		    - an ectopic pregnancy with an adnexal mass of 35 mm or larger
+		    - an ectopic pregnancy with a fetal heartbeat visible on an ultrasound scan
+		    - an ectopic pregnancy and a serum hCG level of 5,000 IU/litre or more. 
+		- 1.6.10 *Offer the choice of either methotrexate or surgical management* to women with an ectopic pregnancy who have a *serum hCG level of at least 1,500 IU/litre and less than 5,000 IU/litre*, who are able to return for follow-up and who meet all of the following criteria:
+		    - no significant pain
+		    - an unruptured ectopic pregnancy with an adnexal mass smaller than 35 mm with no visible heartbeat
+		    - no intrauterine pregnancy (as confirmed on an ultrasound scan). Advise women who choose methotrexate that their chance of needing further intervention is increased and they may need to be urgently admitted if their condition deteriorates.
+		- 1.6.11 For women with ectopic pregnancy who have had methotrexate, take 2 *serum hCG measurements in the first week (days 4 and 7) after treatment and then 1 serum hCG measurement per week until a negative* result is obtained. If hCG levels plateau or rise, reassess the woman's condition for further treatment.
+	- Performing laparoscopy
+		- 1.6.12 When surgical treatment is indicated for women with an ectopic pregnancy, it should be performed laparoscopically whenever possible, taking into account the condition of the woman and the complexity of the surgical procedure. 
+		- 1.6.13 Surgeons providing care to women with ectopic pregnancy should be competent to perform laparoscopic surgery.
+		- 1.6.14 Commissioners and managers should ensure that equipment for laparoscopic surgery is available. 
+	- Salpingectomy and salpingotomy
+		- 1.6.15 Offer a salpingectomy to women undergoing surgery for an ectopic pregnancy unless they have other risk factors for infertility. 
+		- 1.6.16 Consider salpingotomy as an alternative to salpingectomy for women with risk factors for infertility such as contralateral tube damage. 
+			- 1.6.17 Inform women having a salpingotomy that up to 1 in 5 women may need further treatment. This treatment may include methotrexate and/or a salpingectomy. 
+			- 1.6.18 For women who have had a *salpingotomy*, take 1 serum hCG measurement at *7 days after surgery*, then 1 serum hCG measurement per week until a negative result is obtained. 
+		- 1.6.19 Advise women who have had a *salpingectomy* that they should take a *urine pregnancy test after 3 weeks*. Advise women to return for further assessment if the test is positive. 
+- 1.7 Anti-D rhesus prophylaxis
+	- 1.7.1 Offer anti-D rhesus prophylaxis at a dose of 250 IU (50 micrograms) to all rhesus-negative women who have a surgical procedure to manage an ectopic pregnancy or a miscarriage.
+	- 1.7.2 Do not offer anti-D rhesus prophylaxis to women who:
+	    - receive solely medical management for an ectopic pregnancy or miscarriage or
+	    - have a threatened miscarriage or
+	    - have a complete miscarriage or
+	    - have a pregnancy of unknown location. 
+	- 1.7.3 Do not use a Kleihauer test for quantifying feto-maternal haemorrhage.
+- Terms used in this guideline
+    - Early pregnancy --> Pregnancy in the first trimester (that is, up to 13 completed weeks of pregnancy).
+    - Expectant management --> A management approach, also called 'wait and watch', when no medical or surgical treatment is given. The aim is to see if the condition will resolve naturally.
+    - Pregnancy of unknown location --> When a woman has a positive pregnancy test, but no intrauterine or extrauterine pregnancy can be seen with a transvaginal ultrasound scan.
+%%
+- Recommendations for research
+    - The guideline committee has made the following recommendations for research based on its review of evidence, to improve NICE guidance and patient care in the future. The Guideline Development Group's full set of research recommendations is detailed in the full guideline.
+    1. Early pregnancy Assessment units 
+	    - A national evaluation of early pregnancy assessment unit service provision should be carried out to identify factors affecting outcomes. Factors should include whether care is provided in a dedicated unit, staffing configuration and opening hours of dedicated services. Outcomes should include both process (service) outcomes and pregnancy-related outcomes. Data collected should be used to analyse the cost effectiveness of early pregnancy assessment units compared with other models of care.
+	    - Why this is important
+		    - The first report of an early pregnancy assessment unit in England was published over 20 years ago, and prompted the rapid development of centres for the management of problems in early pregnancy. Today there are an estimated 150 early pregnancy assessment units in England and Wales (Association of Early Pregnancy Units, 2012). However, there is considerable variation between centres in access to services and levels of care provided. In addition, there has been very little good quality research on the effectiveness of early pregnancy assessment units in improving physical and emotional health compared with services provided outside of a dedicated unit.
+		    - A national audit of early pregnancy assessment services would help to make up for this lack of information. Such an audit should be along the lines of the National Caesarean Section Sentinel Audit, a cross-sectional national survey of service configuration and outcomes. Data recorded would include service location, opening hours and the healthcare professionals involved. Outcomes would include time of attendance, length of stay, admission rates, time to treatment and women's experience. Obtaining some of this information would involve early pregnancy services carrying out more formal follow-up of women than they might do currently, for the duration of the audit. The evaluation should be structured to allow for comparisons between different models of care.
+		    - Comparative outcome data collected would be used to conduct an analysis of the cost effectiveness of early pregnancy assessment units compared with other models of care.
+    2. Ultrasound for determining a viable intrauterine pregnancy
+	    - How does the timing and frequency of ultrasound examination affect diagnosis and outcomes of early pregnancy complications, including women's experience and cost effectiveness?
+	    - Why this is important
+		    - The rationale behind the frequency of ultrasound to improve diagnosis and outcomes of early pregnancy complications addresses the problems associated with pregnancy of unknown location and intrauterine pregnancy of uncertain viability. The evidence base for the timing and frequency of scanning in early pregnancy is limited, and the number of scans is organised by individual units according to capacity and demand. Some healthcare professionals choose to wait 5 days between scans whereas others will wait 10 to 14 days. These decisions are driven by resource availability as well as clinical considerations, but in particular, the effect of different strategies on cost and women's experience is not clear. The literature suggests that there is no clear consensus, but there is general agreement that by 14 days a diagnosis will be clear. To establish the most appropriate time for scans, the efficacy of scans taken after 14 days could be compared with scans taken after 7 days for diagnosis of ectopic pregnancy or viability.
+    3. Effectiveness of Progestogens in women with  recurrent miscarriage
+	    - What is the clinical and cost effectiveness of progesterone for improving outcomes in women with unexplained recurrent miscarriage?
+		- Why this is important
+		    - Women with previous pregnancy losses have an increased risk of miscarriage in subsequent pregnancies. Progesterone is essential for maintaining a healthy pregnancy, and there is evidence that it is safe for both women and fetuses.
+		    - A recent randomised controlled trial assessed the effectiveness of micronised vaginal progesterone supplementation in women with 3 or more first-trimester losses and did not show a benefit with progesterone therapy use during the first trimester, concluding that there is not enough evidence to support its use in women with unexplained recurrent miscarriage. However, this trial was designed to look for a 10% difference in live birth outcomes in those who received progesterone versus those who did not receive it. A larger randomised controlled trial is needed to determine if there is a smaller difference (for example 2.5% to 5%) which would still lead to a meaningful increase in live births and reduce the trauma of a further miscarriage for a number of women.
+    4. Effect of different progestogens in women at risk of miscarriage
+	    - What is the clinical and cost effectiveness of vaginal micronised progesterone versus other progesterone preparations in improving outcomes in women at risk of miscarriage?
+	    - Why this is important
+		    - Evidence from a recent randomised controlled trial showed a small but important benefit for the outcome of live birth when vaginal micronised progesterone was given to women with early pregnancy bleeding and a history of one or more previous miscarriages. However, there was not enough evidence available to assess whether other formulations of progesterone would lead to other beneficial outcomes in this group of women. Research is needed to identify whether there is a difference in the effectiveness of micronised versus non-micronised progesterone therapy in women with early pregnancy bleeding and a history of one or more previous miscarriages.
+    5. Management of miscarriage
+		- In women with confirmed miscarriage, does the type of management strategy (expectant, medical and surgical) impact on women's experience, including psychological and emotional outcomes?
+	    - Why this is important
+		    - The management of miscarriage in the UK has changed in many ways over the past 2 decades, particularly in the shift from inpatient to outpatient or day case care and the introduction of medical and expectant management as alternatives to surgery.
+		    - Despite these changes there is a lack of research into the effects of these different approaches from the woman's perspective, in particular their psychological and emotional impact. Miscarriage is distressing for most women, and the type of management itself might affect women's need for counselling, with a resulting cost to the NHS. Because of this it is an important area for research.
+		    - The deficiency in the literature could be addressed by a comparative study of women having the different management strategies (expectant, medical or surgical) and in a variety of clinical settings
+		    - (for example, early pregnancy assessment unit, gynaecological ward or gynaecological emergency unit). The data collected could be both quantitative (using validated psychological health questionnaires) and qualitative (focusing particularly on women's experience of the particular type and setting of care).
+    6. Comparison between expectant, medical or surgical management of ectopic pregnancy
+	    - In women with ectopic pregnancy, does the type of intervention impact on women's experience, including psychological and emotional outcomes?
+	    - Why this is important
+		    - Currently there is no evidence exploring the psychological impact of the different treatments for ectopic pregnancy. However, the emotional impact of the condition can be significant, in some circumstances leading to post-traumatic stress disorder. A qualitative comparative study should be carried out to assess how this impact can be reduced. This would help to maximise women's emotional recovery in the short and long term, enable women and clinicians to decide the optimum treatment method and identify what support is needed for women during and after the process. It could also reduce the cost to the NHS of providing long-term counselling for affected women.
+- Rationale and impact
+    - These sections briefly explain why the committee made the recommendations and how they might affect practice.
+    - Using ultrasound for diagnosis of a tubal ecto ectopic pic
+    - pregnancy
+    - Recommendations 1.4.17 to 1.4.21
+    - Why the committee made the recommendations
+    - There was good evidence that, when seen on ultrasound, the presence of an adnexal mass with features of an early pregnancy (a gestational sac containing a yolk sac or fetal pole, with or without a heartbeat) was a reliable indicator for ectopic pregnancy.
+    - Other features such as a complex inhomogeneous adnexal mass, adnexal mass with an empty gestational sac, empty uterus, a collection of fluid in the uterine cavity or free peritoneal fluid might indicate a suspicion of an ectopic pregnancy, but the evidence showed they are not reliable enough features on their own to diagnose an ectopic pregnancy. The committee used their knowledge and experience to recommend that other scan features, clinical presentation and serum human chorionic gonadotrophin (hCG) levels should therefore be used as well to confirm or rule out the diagnosis of ectopic pregnancy.
+    - How the recommendations might affect practice
+    - The recommendations will not change the amount of ultrasound scanning that is carried out but will standardise practice across the NHS. By defining the features that should be used to indicate the presence of an ectopic pregnancy, or a suspicion of an ectopic pregnancy (which can then be investigated further), the diagnosis of ectopic pregnancy should be improved and so risks to women will be reduced.
+    - Return to recommendations
+    - Progestogens for preventing miscarriage
+    - Recommendations 1.5.2 and 1.5.3
+    - Why the committee made the recommendations
+    - There was good evidence that 400 mg twice daily of micronised vaginal progesterone increases the number of live births in women with early pregnancy bleeding and a previous miscarriage. There was no evidence of benefit for any other preparations or doses of progesterone, so the committee made a research recommendation.
+    - There was evidence of no benefit in women with early pregnancy bleeding but no previous miscarriage, nor in women with previous miscarriage but no early pregnancy bleeding in the current pregnancy. The committee made a research recommendation to further assess the use of progesterone in women with recurrent miscarriage. There was no evidence of harm to the mother or baby from the use of progesterone, although the evidence is insufficient to rule out the possibility of rare events.
+    - To reduce the risk of women with a pregnancy of unknown location or an ectopic pregnancy being given progesterone, the committee agreed that, as in the clinical studies, progesterone should only be given to women with intrauterine pregnancy confirmed with a scan. To avoid delay in starting treatment the committee agreed that progesterone could be started before a fetal heartbeat is detected. The evidence on which the recommendations were based had continued the progesterone treatment until 16 weeks of pregnancy so the committee used this duration of treatment in their recommendations.
+    - The committee discussed that as a scan was needed to confirm the intrauterine pregnancy it would be appropriate for the initial prescription for progesterone to be provided by the Early Pregnancy Unit, with prescribing continued to 16 weeks (if a fetal heartbeat was detected) by the woman's GP. However, the committee were aware that shared care prescribing arrangements are usually agreed locally and so did not include this detail in their recommendations.
+    - The committee confirmed that the recommendations for the use of progesterone are only for women with early pregnancy bleeding and a history of miscarriage. The recommendations are not applicable in other circumstances, such as after the use of mifepristone.
+    - How the recommendations might affect practice
+    - The recommendations will increase the use of progestogens to prevent miscarriage but this is cost effective. The recommendations will standardise the preparation of progesterone used to treat threatened miscarriage.
+    - Return to recommendations
+    - Expectant management of tubal ectopic pregnancy
+    - Recommendations 1.6.3 to 1.6.7
+    - Why the committee made the recommendations
+    - The evidence showed no significant differences in the number of ectopic pregnancies ending naturally, the need for additional treatment, the incidence of tubal rupture or the effect on health-related quality of life between expectant management and medical management, so the committee recommended that expectant management could be offered to clinically stable women with small ectopic pregnancies and low hCG levels, and should be considered for clinically stable women with small ectopic pregnancies and slightly higher hCG levels, as an alternative to medical management.
+    - There was no evidence for the time taken for ectopic pregnancies to end naturally or the effects on future fertility but the committee agreed, based on their expertise and experience, that these outcomes were likely to be the same with expectant management compared with medical management.
+    - How the recommendations might affect practice
+    - These recommendations will standardise the management of ectopic pregnancy and make expectant management available for women when it is clinically appropriate. More women might have expectant management of ectopic pregnancy as a result. This could result in cost savings through a reduction in drug use and treatment of associated side effects. Local protocols will be needed for assessment, monitoring and follow-up of women choosing expectant management.
+    - Return to recommendations
+- Context
+    - Ectopic pregnancy and miscarriage have an adverse effect on the quality of life of many women. Approximately 20% of pregnancies miscarry, and miscarriages can cause considerable distress. Early pregnancy loss accounts for over 50,000 admissions in the UK annually. The rate of ectopic pregnancy is 11 per 1,000 pregnancies, with a maternal mortality of 0.2 per 1,000 estimated ectopic pregnancies. About two-thirds of these deaths are associated with substandard care.
+    - Women who do not access medical help readily (such as women who are recent migrants, asylum seekers, refugees, or women who have difficulty reading or speaking English) are particularly vulnerable. Improvement in the diagnosis and management of early pregnancy loss is therefore of vital importance, in order to reduce the incidence of the associated psychological morbidity and avoid the unnecessary deaths of women with ectopic pregnancies.
+- Finding more information and committee details
+	- You can see everything NICE says on this topic in the NICE Pathway on ectopic pregnancy and miscarriage.
+	- To find out what NICE has said on topics related to this guideline, see the NICE webpage on pregnancy.
+	- For full details of the evidence and the guideline committee's discussions for the 2019 and 2021 recommendations, see the evidence reviews. For details of the evidence and the guideline committee's discussions for the 2012 recommendations, see the full version. You can also find information about how the guideline was developed, including details of the committee.
+- Update information
+	- November 2021 2021: We have reviewed the evidence and made new recommendations on the use of progesterone in threatened miscarriage. These recommendations are marked [2021] 2021].
+	- We have also made changes without an evidence review:
+	- Recommendation 1.5.1 has been amended to clarify that this applies to women with early pregnancy bleeding but no history of previous miscarriage.
+	- Recommendation 1.5.18 has been amended to advise that women should be provided with a urine pregnancy test.
+	- These recommendations are marked [2012, amended 2021] 2021].
+	- April 2019 2019: We have reviewed the evidence and made new recommendations on the diagnosis of tubal ectopic pregnancy using ultrasound and expectant management of ectopic pregnancy. These recommendations are marked [2019] 2019].
+	- We have also made some changes without an evidence review:
+	- Recommendation 1.1.2 has had an additional link added to related NICE guidance on antenatal and postnatal health.
+	- Recommendation 1.1.3 has been updated to bring the wording on obtaining consent in line with other NICE guidance.
+	- Recommendation 1.3.10 has been updated with extra information covering a wider range of factors so that potential ectopic pregnancies are not missed.
+	- The headings of section 1.4 and 1.6 have been updated to clarify it only relates to tubal ectopic pregnancy.
+	- Recommendation 1.4.16 has been updated to reflect the possibility of a pregnancy of unknown location, and a cross reference to advice on pregnancy of unknown location added.
+	- Recommendation 1.4.22 has been updated to reflect current ultrasound practice.
+	- Recommendation 1.6.1 has been updated to include advice on miscarriage in the ectopic pregnancy section.
+	- Recommendation 1.4.31 has been updated to make it clear the decrease in serum hCG level is less than 50%.
+	- Recommendation 1.6.7 has been changed to reflect current practice and prescribing guidance on methotrexate.
+	- These recommendations are marked [2012, amended 2019] 2019].
+	- Recommendations marked [2012] last had an evidence review in 2012. In some cases minor changes have been made to the wording to bring the language and style up to date, without changing the meaning.
+	- ISBN: 978-1-4731-3380-8
+	- Accreditation 
+%%
+
+- [[Gynecologic Pathology#Arias-Stella reaction]] Arias-Stella reaction is seen in HPR of ectopic
+- Bathroom sign
+	- If blood leaks from the fallopian tube/ruptured ectopic, you may feel shoulder pain(Morrison's pouch) or **an urge to have a bowel movement**(POD) .
+
+
+
+
+
+#
+[^1]: Next Chapter is 

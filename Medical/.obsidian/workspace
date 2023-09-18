@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "53872b5f9c0b6a4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "333cc0be508b8b2c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Perinatology/Fetal medicine foundation course/The 11-13 weeks scan.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "99555530fc1f7b0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e7dda9e91678e2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eca27cb7829f41d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "432cf7fcf0f0d8d3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#link/PubMed",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 355
+  },
+  "right": {
+    "id": "70f8e22d0ccaf64e",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe5704c73526fdd2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9429880eb6e9d4d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Perinatology/Fetal medicine foundation course/The 11-13 weeks scan.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b937fb25cdd54b7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cdf99f43dbf4fd71",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Perinatology/Fetal medicine foundation course/The 11-13 weeks scan.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f82e488733c91862",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b82f84e9cd0ada5c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Perinatology/Fetal medicine foundation course/The 11-13 weeks scan.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e956d1c5f29d300e",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Perinatology/Fetal medicine foundation course/The 11-13 weeks scan.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "78bda13a7ff9c920",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "97f3ab9df4e47219",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "f972ba993576682b",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 250
+  },
+  "active": "333cc0be508b8b2c",
+  "lastOpenFiles": [
+    "Obstetrics/Personale.md",
+    "Obstetrics/Etymology And background.md",
+    "Obstetrics/Obstetrics.md",
+    "Obstetrics/Robson scoring.md",
+    "Obstetrics/NICE hypertension.svg",
+    "zzzzzz.md",
+    "Paediatric Drug Dosage Guide.md",
+    "Syndromic Management of STI.md",
+    "Gynecology/Gynecology.md",
+    "Gynecology/Endometrial Carcinoma.md"
+  ]
+}
