@@ -1,6 +1,0 @@
-- [ ] Web designing for Everyone
-	- [ ] step 3
-		- [ ] week --
-- [ ] Python for everyone
-	- [ ] Start step 3
-	- [ ] 

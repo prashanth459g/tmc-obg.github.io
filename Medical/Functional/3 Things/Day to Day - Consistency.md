@@ -1,7 +1,0 @@
-- [ ] Thesis
-	- [ ] Protocol writing with PSM
-		- [x] go to PSM to calculate data size
-	- [ ] Protocol submission
-- [ ] ISUOG notes and FOGSI notes
-- [ ] online class - screenshot
-- [ ] Digi nerve
