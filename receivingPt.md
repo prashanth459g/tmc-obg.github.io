@@ -3,11 +3,8 @@
 > - Height, weight, BMI --> pre pregnancy
 > - Weight gained during pregnancy
 > - VT score
-
 - Date & time of receiving
-- Demographic details -->
-
-----
+- Demographic details --> 
 ### History
 - Chief Complaints -->
 	- Admitted for safe confinement
@@ -17,22 +14,22 @@
 	- Primi or G..P..L..A..  prev CS or FTVD/PTVD
 	- if >3 years --> ask spontaneous ? or after infertility treatment?
 	- Consanguineous or NCM
-	- Mention about previous pregnancy's --> Sex| Birth weight | age | CS/ND | Any complications
+	- Mention about previous pregnancy's --> Sex| Birth weight | age | CS/ND | Any complications 
 		- Previous LSCS? -> indication & at what week?
 		- FTVD/PTVD @...Month
 		- Abortions @...Month --> Medically managed/ D&C done or not done
-	- Menstrual history -->
+	- Menstrual history --> 
 		- regular cycles?
-			- .../...... days, h/o clots, dysmenorrhea
+			- .../...... days, h/o clots, dysmenorrhea 
 		- LMP of present pregnancy
 		- EDD by LMP ==>
 		- LMP-GA as of today
 			- Check for EDD with Dating scan --> Corresponding(<1wk disparity) -> good
 			- if not mention T1 EDD & T1-GA
-- HOPI --> start describing
+- HOPI --> start describing 
 	- Presenting illness
-		- Pain
-			- Intermittent abdominal pain
+		- Pain 
+			- Intermittent abdominal pain 
 				- Radiating to back
 				- since \_\_ hours or \_\_ days
 			- Lower abdominal pain
@@ -42,26 +39,26 @@
 		- Leaking PV
 		- Appreciating good FM/ decreased FM
 		- Fever/ vomiting/ etc....
-	- **T1**
+	- **T1** 
 		- Preconceptionally FolicAcid?
-		- When was the UPT done,
+		- When was the UPT done, 
 			- if with in 2wks of missed period --> suggest regular cycles
-			-
+			- 
 		- Inj TT ? 2 doses
-		- Any h/o fever with rash
+		- Any h/o fever with rash 
 		- h/o Teratogenic drug intake
 		- h/o Radiation exposure
 		- h/o spotting p/v? or Abdominal pain?
-		- *Dating scan* -->
+		- *Dating scan* --> 
 			- when was it done?
-			- Corresponding dates?
-		- *NT scan* -->
+			- Corresponding dates? 
+		- *NT scan* --> 
 			- NT thickness
 			- NB -
 		- *Aneuploidy Screening* --> when? T1/T2
 			- Low risk / moderate risk/ high risk
-		- any Past history
-	- **T2**
+		- any Past history 
+	- **T2** 
 		- When was the Quickening?
 		- 75gm GGT
 		- *Anomaly scan* --> when?
@@ -76,7 +73,7 @@
 		- Deworming done?
 		- PS, Ferritin, LDH --> reports
 		- Last Hb
-	- **GDM**
+	- **GDM** 
 		- GTT or F/PPBS values
 		- When was it detected? FBS/PPBS at that time
 			- if it is >126/200 --> Suspect Overt diabetes --> Enquire about HbA1c value
@@ -87,7 +84,10 @@
 		- h/o Impending signs
 		- if <20 wk --> c/c HTN
 		- Check urine P/C >0.3 or Urine Albumin + ==> Preeclampsia
-		- c/c HTn --> End Organ evaluation
+		- c/c HTn --> End Organ evaluation 
+	%%	- check *Doppler scan* --> 
+			- Uterine artery PI
+			- Whether started on Tab. Ecosprine 150mg HS ?%%
 	- **Seizure**
 		- When was detected
 		- last seizure episode
@@ -103,16 +103,16 @@
 		- since how many years
 		- symptoms if any, Rx if any, regular follow up, last cardiac consultation date & Advice
 	- Asthma/COPD/ TB
-- Drug history
+- Drug history 
 	- h/o blood transfusion
 	- Any h/o **Drug allergy** --> allergy chart
 	- Teratogenic drug intake
-- Past surgical history
+- Past surgical history 
 	- for what, when, what Sx
 - Family history --> Gynecology patients & Genetic disease patients
 	- Any history breast/endometrial/ovarian cancer in the family
 - If not covered previously
-	- Personal history
+	- Personal history 
 		- sleep regular
 		- decreased appetite
 		- normal bladder & bowel movement
@@ -121,13 +121,11 @@
 	- Menstrual history
 	- Past obstetrics history
 	- any reference's from medicine/cardiology/nephrology/ophthalmology
-
-
 ----
 ### Examination
 - General Physical examination
 	- Conscious, oriented
-	- Pallor,  icterus, cyanosis,
+	- Pallor,  icterus, cyanosis, 
 	- pedal edema, lymphadenopathy
 	- Febrile?
 	- PR -
@@ -136,13 +134,13 @@
 	- Spo2
 - CVS - S1 S2 heard
 - RS - clear AEBE, no added sound
-- P/A -
+- P/A - 
 	- Inspection findings
-		- Longitudinally stretched --> pregnant
+		- Longitudinally stretched --> pregnant 
 		- linea nigra/alba
 		- striae gravidarum
 		- prev cs scar
-	- Palpation findings
+	- Palpation findings 
 		- soft, non tense, non tender, obesity +/-
 		- uterus ~......wks
 		- Cephalic
@@ -150,25 +148,22 @@
 			- fixed - (4/5, 3/5, 2/5, 1/5, 0/5)
 		- any other presentation
 		- FM +
-		- FHS --> .....bpm,
+		- FHS --> .....bpm, 
 		- no scar tenderness if prev cs
 - if r/o Abruption -> no clinical evidence of abruption
 	- Also do BT/CT and write
-- if PPROM --> no s/o Chorioamnionitis
+- if PPROM --> no s/o Chorioamnionitis 
 - P/Speculum -
 	- OS closed, cervical length ~.......
 	- Any discharge/ leaking/ bleeding
 		- curdy white or purulent
-- P/Vaginal -
+- P/Vaginal - 
 - if relevant Don't forget to mention, often decisions are made based on evidence
 	- NST details
 	- Scan details
 	- Investigation details
-
-
 ----------
-
-### Impression
+### Impression 
 - Married life x ..yrs || G..P..L..A.. || previous FTNVD/CS
 - POG - ....wk + ...days
 - Risk factors / co-morbidities
@@ -176,7 +171,6 @@
 	- Placenta previa
 	- anemia
 - Enter Investigation/scan impression
-
 -----
 ### Advice
 - [ ] Monitor Vitals
@@ -188,9 +182,11 @@
 - [ ] Tab. Folic Acid 5mg 1-0-0
 - [ ] Tab. Calcium 500mg 0-2-0
 - [ ] Tab. Albendazole 400mg stat (if not dewormed)
+- [ ] 
 - [ ] Arrange Blood
 - [ ] Collect investigation
 - [ ] Prepare parts
 - [ ] Tab. Dulcolax 2 HS
 - [ ] Tab. Flucanzole 150mg stat
 - [ ] Cansoft CL Vaginal tablet (1/3)
+
